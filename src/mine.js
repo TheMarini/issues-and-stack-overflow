@@ -5,18 +5,16 @@ const l = require('./utils/logger');
 const analysis = require('./analysis');
 
 class Mine {
-  constructor(objective, language) {
+  constructor(objective, pageLength) {
     this.objective = objective;
-    this.language = language;
-    this.file = `./data/${this.language ? this.language : 'results'}.csv`;
+    this.pageLength = pageLength;
+    this.file = './data/results.csv';
     this.current = 1;
     this.cursor = null;
   }
 
   async start(token) {
-    l.title(
-      `\n--- Iniciando busca ${this.language ? `(${this.language}) ` : ''}---`
-    );
+    l.title('\n--- Iniciando busca ---');
     const digs = [];
     let tag = `[${this.current}/${this.objective}]`;
     while (this.current <= this.objective) {
@@ -32,7 +30,7 @@ class Mine {
 
   async dig(token, tag) {
     try {
-      await fetch(token, this.cursor, this.language).then((res) => {
+      await fetch(token, this.cursor, this.pageLength).then((res) => {
         this.cursor = res.pageInfo.endCursor || null;
         this.current += 1;
         const data = Mine.polish(res.nodes, tag);

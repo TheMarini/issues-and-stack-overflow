@@ -5,18 +5,16 @@ const Factory = require('./src/factory');
 // -- Configuration --
 // GitHub API token
 const token = process.env.TOKEN;
-// Quantity of pages as objective (5 at time)
-const pages = 20;
+// Quantity of pages as objective
+const pages = 25;
+// Quantity of results by page | Default: 5
+const pageLength = 4;
 
 // New factory to mine
-const pythonFactory = new Factory(token, pages, 'python');
+const factory = new Factory(token, pages, pageLength);
 
 // Start to mine
-pythonFactory.start().then(() => {
-  const javaFactory = new Factory(token, pages, 'java');
-
-  javaFactory.start().then(() => {
-    // The end
-    process.exit();
-  });
+factory.start().then(() => {
+  // The end
+  process.exit();
 });

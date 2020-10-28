@@ -4,14 +4,14 @@ const query = require('./query');
 module.exports = (
   token,
   cursor,
-  language,
+  pageLength,
   urlAPI = 'https://api.github.com/graphql'
 ) => {
   return axios
     .post(
       urlAPI,
       {
-        query: query(cursor, language),
+        query: query(cursor, pageLength),
       },
       {
         headers: {

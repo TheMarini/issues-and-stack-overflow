@@ -1,9 +1,9 @@
-module.exports = (cursor, language) => {
+module.exports = (cursor, pageLength = 5) => {
   const after = cursor ? `, after: "${cursor}"` : '';
 
   return `
   {
-    search(type: REPOSITORY, query: "stars:>100 language:${language}", first: 5${after}) {
+    search(type: REPOSITORY, query: "stars:>100 sort:stars", first: ${pageLength}${after}) {
       repositoryCount
       pageInfo {
         endCursor
