@@ -12,14 +12,40 @@ module.exports = (cursor, pageLength = 5) => {
         ... on Repository {
           nameWithOwner
           stargazerCount
-          createdAt
-          forkCount
-          watchers {
+					primaryLanguage {
+          	name
+          }
+          totalIssues: issues {
             totalCount
           }
-          releases {
-            totalCount
-          }
+          openIssues: issues(states: [OPEN], orderBy: {field: COMMENTS, direction: DESC}, first: 5) {
+          	totalCount
+          	nodes {
+            	id
+              number
+              title
+              createdAt
+            	updatedAt
+            	closedAt
+              comments {
+              	totalCount
+              }
+          	}
+        	}
+          closedIssues: issues(states: [CLOSED], orderBy: {field: COMMENTS, direction: DESC}, first: 5) {
+          	totalCount
+          	nodes {
+            	id
+              number
+              title
+              createdAt
+            	updatedAt
+            	closedAt
+              comments {
+              	totalCount
+              }
+          	}
+        	}
         }
       }
     }
