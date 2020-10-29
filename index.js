@@ -6,7 +6,7 @@ const Factory = require('./src/factory');
 // GitHub API token
 const token = process.env.TOKEN;
 // Quantity of pages as objective
-const pages = 25;
+const pages = 30;
 // Quantity of results by page | Default: 5
 const pageLength = 4;
 
