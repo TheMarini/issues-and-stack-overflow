@@ -1,8 +1,6 @@
-const moment = require('moment');
 const ObjectsToCsv = require('objects-to-csv');
 const fetch = require('./utils/fetch');
 const l = require('./utils/logger');
-const analysis = require('./analysis');
 
 class Mine {
   constructor(objective, pageLength) {
@@ -11,6 +9,7 @@ class Mine {
     this.file = './data/results.csv';
     this.current = 1;
     this.cursor = null;
+    this.discarded = 0;
   }
 
   async start(token) {
@@ -25,16 +24,21 @@ class Mine {
     }
     await Promise.all(digs);
     l.title('--- Fim da busca ---\n');
-    l.info(`Veja o resultado em ${this.file} :D`);
+    l.info(`Veja o resultados em ./data :D`);
   }
 
   async dig(token, tag) {
     try {
-      await fetch(token, this.cursor, this.pageLength).then((res) => {
+      await fetch(token, this.cursor, this.pageLength).then(async (res) => {
         this.cursor = res.pageInfo.endCursor || null;
         this.current += 1;
-        const data = Mine.polish(res.nodes, tag);
-        return analysis(data, tag, this.file);
+        const data = this.polish(res.nodes, tag);
+        console.log(`${tag} Salvando as métricas dos repositórios...`);
+        await Mine.store('./data/repos.csv', data.repos, tag);
+        console.log(`${tag} Salvando as métricas das issues abertas...`);
+        await Mine.store('./data/open_issues.csv', data.openIssues, tag);
+        console.log(`${tag} Salvando as métricas das issues fechadas...`);
+        await Mine.store('./data/closed_issues.csv', data.closedIssues, tag);
       });
     } catch (e) {
       l.error(`${tag} Erro na requisição:`, e.message);
@@ -43,7 +47,6 @@ class Mine {
   }
 
   static async store(file, data, tag) {
-    console.log(`${tag} Salvando...`);
     return new ObjectsToCsv(data)
       .toDisk(file, {
         append: true,
@@ -54,19 +57,75 @@ class Mine {
       });
   }
 
-  static polish(dirt, tag) {
+  polish(dirt, tag) {
     console.log(`${tag} Formatando página...`);
-    return dirt.map((repo) => {
+    const temp = dirt.map((repo) => {
       return {
-        '<usuário>/<repositório>': repo.nameWithOwner,
-        Estrelas: repo.stargazerCount,
-        'Idade (anos)': moment().diff(repo.createdAt, 'years', true).toFixed(2),
-        'Data de criação': repo.createdAt,
-        Forks: repo.forkCount,
-        Watchers: repo.watchers.totalCount,
-        Releases: repo.releases.totalCount,
+        repo: {
+          '<usuário>/<repositório>': repo.nameWithOwner,
+          'Nº de estrelas': repo.stargazerCount,
+          'Linguagem principal': repo.primaryLanguage
+            ? repo.primaryLanguage.name
+            : 'N/A',
+          'Nº de issues': repo.totalIssues.totalCount,
+          'Nº de issues abertas': repo.openIssues.totalCount,
+          'Nº de issues fechadas': repo.closedIssues.totalCount,
+          'Proporção de issues fechadas': (
+            repo.closedIssues.totalCount / repo.totalIssues.totalCount || 0
+          ).toFixed(2),
+        },
+        issues: {
+          open: repo.openIssues.nodes.map((issue) => {
+            return {
+              '<usuário>/<repositório>': repo.nameWithOwner,
+              ID: issue.id,
+              Número: issue.number,
+              Titulo: issue.title,
+              'Nº de comentários': issue.comments.totalCount,
+              'Data de criação': issue.createdAt,
+              'Data da última atualização': issue.updatedAt,
+              'Data de conclusão': '-',
+            };
+          }),
+          closed: repo.closedIssues.nodes.map((issue) => {
+            return {
+              '<usuário>/<repositório>': repo.nameWithOwner,
+              ID: issue.id,
+              Número: issue.number,
+              Titulo: issue.title,
+              'Nº de comentários': issue.comments.totalCount,
+              'Data de criação': issue.createdAt,
+              'Data da última atualização': issue.updatedAt,
+              'Data de conclusão': issue.closedAt,
+            };
+          }),
+        },
       };
     });
+
+    const repos = [];
+    const openIssues = [];
+    const closedIssues = [];
+
+    temp.forEach((t) => {
+      if (t.repo['Nº de issues'] > 0) {
+        repos.push(t.repo);
+        openIssues.push(...t.issues.open);
+        closedIssues.push(...t.issues.closed);
+      } else {
+        l.status(
+          `${tag} Repositório ${t.repo['<usuário>/<repositório>']} descartado por não possuir issues`
+        );
+        this.discarded += 1;
+        l.info(`${tag} Total de repositórios descartados:`, this.discarded);
+      }
+    });
+
+    return {
+      repos,
+      openIssues,
+      closedIssues,
+    };
   }
 }
 
