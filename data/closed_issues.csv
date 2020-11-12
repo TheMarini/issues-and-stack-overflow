@@ -1,501 +1,86 @@
-﻿<usuário>/<repositório>,ID,Número,Titulo,Nº de comentários,Data de criação,Data da última atualização,Data de conclusão
-freeCodeCamp/freeCodeCamp,MDU6SXNzdWUxNTI3MjMxNjY=,8418,"Deprecate Gitter rooms, Download all data",114,2016-05-03T08:26:13Z,2017-12-08T15:05:37Z,2017-03-18T08:57:28Z
-freeCodeCamp/freeCodeCamp,MDU6SXNzdWUxNzA1NTAzOTA=,10158,Incorrect output for some equations - example javascript calculator project,89,2016-08-11T00:43:35Z,2016-10-09T16:53:41Z,2016-10-08T23:30:02Z
-freeCodeCamp/freeCodeCamp,MDU6SXNzdWUyODQ5NjM4NTA=,16358,ES6: Create Strings using Template Literals - Test Fails - Doesn't detect template strings,75,2017-12-28T18:09:38Z,2019-04-23T08:52:48Z,2018-06-25T17:20:21Z
-freeCodeCamp/freeCodeCamp,MDU6SXNzdWUyMTE4MzkyMzM=,13727,Chrome displays error message in iframe - Unsual code detected,72,2017-03-04T00:43:49Z,2020-05-05T12:51:02Z,2017-06-10T06:42:51Z
-freeCodeCamp/freeCodeCamp,MDU6SXNzdWUxMzAzMDEzMjI=,6633,"Timezone breaks submission: ""cannot read `join` of null.",70,2016-02-01T09:00:35Z,2016-02-03T20:17:30Z,2016-02-03T19:56:07Z
-vuejs/vue,MDU6SXNzdWUxMDEzNDg1NzU=,1173,Make binding syntax more consistent,212,2015-08-17T06:26:23Z,2015-09-13T21:04:47Z,2015-09-13T20:47:55Z
-vuejs/vue,MDU6SXNzdWUxNTQ4MTc3MTc=,2873,2.0 Changes,210,2016-05-13T23:16:15Z,2019-06-10T07:20:59Z,2016-09-17T20:53:35Z
-vuejs/vue,MDU6SXNzdWUyNzMyNjA1MQ==,96,General FAQ,170,2014-02-11T05:18:02Z,2016-05-03T21:21:19Z,2014-03-21T01:43:11Z
-vuejs/vue,MDU6SXNzdWUxMDYyMzg1NTU=,1308,1.0 binding syntax (discussion thread),137,2015-09-13T20:43:28Z,2015-09-26T00:39:08Z,2015-09-26T00:39:08Z
-vuejs/vue,MDU6SXNzdWU0NTUzMzUwMA==,478,Typescript and Vue in general,127,2014-10-10T23:31:11Z,2020-05-27T00:30:03Z,2016-10-01T00:10:38Z
-EbookFoundation/free-programming-books,MDU6SXNzdWUxMjQ0OTY0MzU=,1769,Crack down on copyright infringement PDFs,27,2015-12-31T19:11:21Z,2017-05-16T19:41:01Z,2017-05-16T19:41:01Z
-EbookFoundation/free-programming-books,MDU6SXNzdWUyNzQwNzk0Nw==,699,Adding software versions in table-like structure,23,2014-02-12T03:44:37Z,2014-05-25T15:50:13Z,2014-05-25T15:48:37Z
-EbookFoundation/free-programming-books,MDU6SXNzdWUxMDM5MDY1Mzg=,1586,HELP_WANTED: update broken URLs,18,2015-08-30T07:54:59Z,2015-11-17T15:50:17Z,2015-11-17T15:47:44Z
-EbookFoundation/free-programming-books,MDU6SXNzdWU1MDc3Nzc4Mg==,1223,It would be helpful to specify access requirements,17,2014-12-03T04:29:51Z,2016-10-02T10:48:26Z,2016-10-02T10:48:26Z
-EbookFoundation/free-programming-books,MDU6SXNzdWU2NTY0MzM1Nw==,1427,free-science-books,16,2015-04-01T09:28:11Z,2015-09-06T12:30:27Z,2015-09-06T12:30:27Z
-facebook/react,MDU6SXNzdWUyODUyNzgxNTk=,11940,Facebook Engineers - Thank You For 2017,264,2017-12-31T22:06:22Z,2020-07-06T11:30:27Z,2018-01-02T13:05:16Z
-facebook/react,MDU6SXNzdWUyNDU4Mzg1MDY=,10294,React 16 RC,254,2017-07-26T20:05:32Z,2017-11-03T10:31:08Z,2017-09-26T16:49:46Z
-facebook/react,MDU6SXNzdWUzNTYxMDM1OTI=,13525,React Fire: Modernizing React DOM,227,2018-08-31T19:45:53Z,2020-08-12T13:13:48Z,2020-08-11T11:34:24Z
-facebook/react,MDU6SXNzdWU0MTY2ODAwOQ==,2127,Add fragment API to allow returning multiple components from render,148,2014-09-02T00:58:45Z,2017-11-28T22:17:08Z,2017-07-26T22:36:36Z
-facebook/react,MDU6SXNzdWUyMDA3NTk4OTI=,8784,Explore encouraging users to not ship DEV mode to production,143,2017-01-13T23:49:15Z,2017-07-26T22:59:01Z,2017-07-26T22:59:01Z
-tensorflow/tensorflow,MDU6SXNzdWUzOTc4MTYxOTI=,24828,"Error : Failed to get convolution algorithm. This is probably because cuDNN failed to initialize, so try looking to see if a warning log message was printed above.",254,2019-01-10T12:49:35Z,2020-10-25T07:33:33Z,2019-02-01T00:04:37Z
-tensorflow/tensorflow,MDU6SXNzdWUxMTU5NTY5Mjc=,37,Node.js (JavaScript) Wrapper API,246,2015-11-09T20:17:58Z,2018-11-09T21:48:39Z,2018-04-26T22:35:51Z
-tensorflow/tensorflow,MDU6SXNzdWUzNjc0MzI2MDI=,22794,Win10: ImportError: DLL load failed: The specified module could not be found,184,2018-10-06T07:29:04Z,2020-03-10T22:45:45Z,2018-10-07T20:47:09Z
-tensorflow/tensorflow,MDU6SXNzdWUxMTU5MjU5NjQ=,17,Windows Support and Documentation,180,2015-11-09T17:30:58Z,2016-11-29T18:08:28Z,2016-11-29T18:08:28Z
-tensorflow/tensorflow,MDU6SXNzdWUyNDgxMzU1NjA=,12052,Upgrade to CuDNN 7 and CUDA 9,170,2017-08-04T22:57:53Z,2019-02-08T20:44:12Z,2017-12-15T23:02:03Z
-twbs/bootstrap,MDU6SXNzdWU0MTA2ODQ0,3057,bootstrap-dropdown.js clearMenus() needs ; at the end,289,2012-04-13T16:41:13Z,2014-10-01T20:42:29Z,2012-04-14T22:47:15Z
-twbs/bootstrap,MDU6SXNzdWUxNzM1NTQ3,306,Sticky footer,264,2011-09-25T22:50:21Z,2013-12-28T09:15:05Z,2011-10-04T06:06:17Z
-twbs/bootstrap,MDU6SXNzdWUzMjc1Mzgz,2054,Migrate to MIT License,213,2012-02-17T22:55:46Z,2014-07-30T01:42:08Z,2013-08-13T17:43:02Z
-twbs/bootstrap,MDU6SXNzdWU2MzY5MzQ2,4550,"Button dropdown links don't work on mobile (android, iOS)",192,2012-08-22T04:53:09Z,2014-10-02T00:06:25Z,2012-12-05T02:36:53Z
-twbs/bootstrap,MDU6SXNzdWUyODAzNzMw,966,Icons as font instead of img ,157,2012-01-11T12:19:28Z,2013-08-21T07:24:21Z,2012-11-06T02:52:55Z
-sindresorhus/awesome,MDU6SXNzdWU5ODIwODA2OQ==,253,Add badge to existing lists,128,2015-07-30T16:16:34Z,2016-10-26T09:05:55Z,2016-10-26T09:05:55Z
-sindresorhus/awesome,MDU6SXNzdWU5MDYyMzQ5Ng==,207,Improve the awesome list ecoystem,28,2015-06-24T09:30:22Z,2015-07-09T13:26:15Z,2015-07-09T13:07:19Z
-sindresorhus/awesome,MDU6SXNzdWUxMTkwODM5NjU=,427,Website for searching in awesome.,25,2015-11-26T17:34:26Z,2019-02-26T19:46:36Z,2019-02-26T19:46:36Z
-sindresorhus/awesome,MDU6SXNzdWU5MTQ2NDA2Ng==,213,Badge,18,2015-06-27T13:23:39Z,2015-07-30T17:15:36Z,2015-07-30T16:04:05Z
-sindresorhus/awesome,MDU6SXNzdWU3OTU4MzgwNQ==,153,Local awesome lists,18,2015-05-22T19:46:05Z,2019-02-26T19:40:23Z,2019-02-26T19:40:23Z
-jwasham/coding-interview-university,MDU6SXNzdWUxODMyMjAwNzA=,39,Translations are welcome,30,2016-10-15T16:54:41Z,2017-01-06T18:21:40Z,2017-01-06T18:16:10Z
-jwasham/coding-interview-university,MDU6SXNzdWUxOTk5NTQ3OTM=,131,A little bad news. I didn't get hired.,20,2017-01-10T22:43:42Z,2017-01-27T18:35:40Z,2017-01-27T18:35:40Z
-jwasham/coding-interview-university,MDU6SXNzdWUyNzI5MzgzMTM=,275,How many years I need to finish all of this stuff?,16,2017-11-10T13:50:13Z,2020-02-12T06:06:32Z,2020-02-12T06:06:32Z
-jwasham/coding-interview-university,MDU6SXNzdWUxOTY5OTI1Njg=,80,Translation: Spanish,16,2016-12-21T17:44:42Z,2017-06-04T17:24:31Z,2017-06-04T17:24:31Z
-jwasham/coding-interview-university,MDU6SXNzdWUxOTgxODAxOTI=,101,Translation: Bahasa Indonesia,15,2016-12-30T18:33:14Z,2020-08-28T07:58:51Z,2017-02-13T17:52:32Z
-kamranahmedse/developer-roadmap,MDU6SXNzdWUzMzg2MDQyNDU=,474,DevOps is not a career path,17,2018-07-05T14:41:40Z,2020-02-27T05:32:22Z,2019-01-23T18:11:19Z
-kamranahmedse/developer-roadmap,MDU6SXNzdWUyMTQ1NDE1NTg=,1,Why is PHP involved in a roadmap with a year above 2011,15,2017-03-15T22:10:15Z,2017-03-16T22:21:11Z,2017-03-16T22:21:11Z
-kamranahmedse/developer-roadmap,MDU6SXNzdWU0ODE2Mjg1ODY=,614,Software QA Roadmap,12,2019-08-16T14:11:22Z,2020-01-04T06:39:26Z,2020-01-04T06:39:26Z
-kamranahmedse/developer-roadmap,MDU6SXNzdWUyMjIwMDIxMjk=,127,Full stack path,12,2017-04-16T10:08:25Z,2020-01-04T01:20:40Z,2020-01-04T01:20:40Z
-kamranahmedse/developer-roadmap,MDU6SXNzdWU1ODI2NTMwMzQ=,663,Frameworks for Backend,9,2020-03-16T23:18:07Z,2020-03-20T22:17:47Z,2020-03-20T22:17:47Z
-getify/You-Dont-Know-JS,MDU6SXNzdWUzOTkyNTI2Ng==,170,"""types & grammar"": review - vball525",75,2014-08-11T03:12:15Z,2017-09-15T02:24:44Z,2014-09-12T14:22:48Z
-getify/You-Dont-Know-JS,MDU6SXNzdWU3MTkwOTI2MA==,423,"""es6 & beyond"": ch 7, errors in example code",40,2015-04-29T15:32:44Z,2015-05-01T18:56:09Z,2015-04-29T21:55:07Z
-getify/You-Dont-Know-JS,MDU6SXNzdWUxNjEwNTY0NzA=,767,`let` hoisting?,39,2016-06-19T04:50:00Z,2020-05-31T19:49:26Z,2016-06-23T07:16:06Z
-getify/You-Dont-Know-JS,MDU6SXNzdWUyNTI3NzU5OA==,37,Tech Editors,28,2014-01-08T23:05:31Z,2018-03-18T20:06:49Z,2018-03-18T20:06:49Z
-getify/You-Dont-Know-JS,MDU6SXNzdWUyOTg3NzgxNw==,91,"""this & object prototypes"": cover shadowing properties",23,2014-03-21T03:48:35Z,2017-08-18T21:07:01Z,2014-03-31T08:21:29Z
-ohmyzsh/ohmyzsh,MDU6SXNzdWUxNTkwNjM4NA==,1906,A few invalid symbols in 'agnoster.zsh-theme',111,2013-06-24T02:28:19Z,2019-03-25T18:15:21Z,2014-03-06T00:30:54Z
-ohmyzsh/ohmyzsh,MDU6SXNzdWUzNjUyNjM2MzQ=,7175,[Good first PR] Add READMEs to undocumented plugins,109,2018-09-30T21:31:55Z,2019-12-27T01:53:26Z,2019-12-27T01:53:26Z
-ohmyzsh/ohmyzsh,MDU6SXNzdWU5NzU1OTE=,377,Proposal to Simplify OH-MY-ZSH,87,2011-05-30T19:26:38Z,2014-05-29T15:48:08Z,2012-06-13T20:07:28Z
-ohmyzsh/ohmyzsh,MDU6SXNzdWUxNzM4NDc4,630,compdef: unknown command or service: git,86,2011-09-26T10:42:51Z,2020-07-24T20:28:42Z,2014-03-22T20:49:35Z
-ohmyzsh/ohmyzsh,MDU6SXNzdWU4NzE1NDk1,1433,history-substring-search doesn't work after update to Ubuntu 12.10 [has workaround],79,2012-11-27T11:10:36Z,2017-06-05T04:22:41Z,2015-02-22T01:00:29Z
-CyC2018/CS-Notes,MDU6SXNzdWUzMjgwMTY0OTk=,268,版主弄个微信群吧,44,2018-05-31T06:59:13Z,2018-11-20T09:38:15Z,2018-11-20T09:38:15Z
-CyC2018/CS-Notes,MDU6SXNzdWUzMDQ4NDcwMDg=,52,Please translate to english,21,2018-03-13T16:48:04Z,2018-11-20T09:38:50Z,2018-11-20T09:38:50Z
-CyC2018/CS-Notes,MDU6SXNzdWU0MTEyMTIyODg=,567,小调查：本项目是否帮你拿到了 Offer？,18,2019-02-17T17:31:07Z,2019-06-19T04:01:44Z,2019-06-19T04:01:44Z
-CyC2018/CS-Notes,MDU6SXNzdWUzMDkyMDgwMTc=,106,计算机操作系统那里，进程同步是不是有点问题？,15,2018-03-28T03:26:00Z,2018-07-22T14:14:55Z,2018-07-07T13:34:23Z
-CyC2018/CS-Notes,MDU6SXNzdWUzMDg0MTcwNTM=,95,希望大家能在这里添加一些自己认为重要的基础知识点，帮助改进本仓库。,15,2018-03-26T02:49:41Z,2018-10-06T07:08:24Z,2018-04-04T02:58:29Z
-donnemartin/system-design-primer,MDU6SXNzdWUyMTMyNzY2NzA=,15,Make the OmniGraffle template and diagrams available,13,2017-03-10T08:33:53Z,2017-04-02T12:36:23Z,2017-04-02T12:34:49Z
-donnemartin/system-design-primer,MDU6SXNzdWUyODk3OTAyMjA=,126,Anki flash cards errors,7,2018-01-18T21:58:23Z,2018-09-02T18:10:48Z,2018-09-02T18:10:48Z
-donnemartin/system-design-primer,MDU6SXNzdWU2MDEwMjA2MjM=,402,"Normally, the passive server won't take over the IP address of active server in the case of failover",4,2020-04-16T12:45:02Z,2020-04-17T10:20:28Z,2020-04-17T10:20:27Z
-donnemartin/system-design-primer,MDU6SXNzdWU1OTYzODc1MDg=,397,"Replace ""master"" and ""slave"" terms",4,2020-04-08T08:04:05Z,2020-08-03T08:57:13Z,2020-08-03T08:57:13Z
-donnemartin/system-design-primer,MDU6SXNzdWU0ODE3NDQyMzM=,313,Availability patterns description,4,2019-08-16T19:04:50Z,2020-07-05T14:50:33Z,2020-07-05T14:50:33Z
-flutter/flutter,MDU6SXNzdWUzMzI2OTAwODI=,18494,Support APKs with 32-bit and 64-bit binaries within them,286,2018-06-15T08:35:27Z,2020-04-15T17:09:58Z,2019-06-25T22:03:36Z
-flutter/flutter,MDU6SXNzdWUyNTAwODA3MDQ=,11609,Consider JSX-like syntax inside dart code,238,2017-08-14T16:16:38Z,2018-08-01T03:50:58Z,2018-08-01T03:50:49Z
-flutter/flutter,MDU6SXNzdWUzMTQ0MjYxMTA=,16604,Need to restart or flutter clean too often,235,2018-04-15T15:39:19Z,2020-08-17T23:02:09Z,2020-04-13T17:41:49Z
-flutter/flutter,MDU6SXNzdWUzMDgzNDQyMDM=,15922,Consider JSX-like as React Native,203,2018-03-25T12:05:33Z,2020-04-25T19:45:14Z,2018-04-25T20:25:47Z
-flutter/flutter,MDU6SXNzdWU0MzkyNDgwMTE=,31922,Support app bundles with 32-bit and 64-bit binaries within them,194,2019-05-01T17:31:54Z,2020-02-03T21:59:50Z,2019-06-24T20:14:24Z
-microsoft/vscode,MDU6SXNzdWU1OTA3MDEyMDY=,93814,GitHub Action Error Log,457,2020-03-31T00:52:53Z,2020-10-20T01:25:00Z,2020-08-10T17:49:22Z
-microsoft/vscode,MDU6SXNzdWUxMTc4MTcwNTI=,224,Proper tabs for open files,411,2015-11-19T13:49:36Z,2016-06-27T06:44:35Z,2016-06-27T06:42:48Z
-microsoft/vscode,MDU6SXNzdWUxMTgxNzUzMTk=,396,Add support for opening multiple project folders in same window,380,2015-11-21T06:44:53Z,2017-12-17T11:05:17Z,2017-11-02T11:03:21Z
-microsoft/vscode,MDU6SXNzdWUyNjM2Mjg2MTg=,35783,New VS Code icon is ugly!,361,2017-10-07T09:18:32Z,2017-12-08T20:05:05Z,2017-10-24T19:10:13Z
-microsoft/vscode,MDU6SXNzdWUxNjE3NTkxNjA=,8017,Inconsistent weight and use of color in iconography throughout UI,314,2016-06-22T18:55:34Z,2019-09-17T14:53:29Z,2019-08-01T22:12:49Z
-airbnb/javascript,MDU6SXNzdWUyMjA3MTM4NjI=,1365,What is the benefit of prefer-default-export?,165,2017-04-10T17:23:49Z,2020-10-14T17:49:43Z,2017-08-08T06:40:20Z
-airbnb/javascript,MDU6SXNzdWUxNTA1ODUyMDg=,851,Using 'ForInStatement' is not allowed (no-restricted-syntax),155,2016-04-23T19:01:41Z,2020-03-02T14:11:23Z,2016-04-23T21:16:23Z
-airbnb/javascript,MDU6SXNzdWUyMDIxMTEyOTU=,1271,Using 'ForOfStatement' is not allowed (no-restricted-syntax),153,2017-01-20T10:55:08Z,2020-05-29T07:11:02Z,2017-01-20T18:39:44Z
-airbnb/javascript,MDU6SXNzdWUxNzIxNTM0MzU=,1024,Why are underscore prefixes for internal methods of a React component considered bad?,119,2016-08-19T15:09:28Z,2020-09-15T05:12:27Z,2016-08-30T17:00:03Z
-airbnb/javascript,MDU6SXNzdWUxODI2NzQ2NDM=,1122,Disallow for-of,113,2016-10-13T01:41:47Z,2020-04-10T06:35:54Z,2016-10-17T06:11:37Z
-public-apis/public-apis,MDU6SXNzdWUxNjUwODgxMzY=,203,Migrate to a website,48,2016-07-12T14:02:15Z,2019-12-14T08:10:57Z,2019-04-21T14:13:23Z
-public-apis/public-apis,MDU6SXNzdWUyMTQ4MTY0Mjg=,303,Is it possible to add a column to show if APIs are CORS enabled?,26,2017-03-16T19:39:42Z,2018-01-15T13:33:50Z,2018-01-15T13:33:49Z
-public-apis/public-apis,MDU6SXNzdWUxNDUxNDM0MzY=,140,API key inconsistency,14,2016-04-01T10:22:21Z,2016-12-12T16:42:59Z,2016-12-12T16:42:59Z
-public-apis/public-apis,MDU6SXNzdWU3MTQxMjg5Mjk=,1401,Adding repository to Hacktoberfest,5,2020-10-03T16:47:14Z,2020-10-06T05:16:10Z,2020-10-06T05:16:10Z
-public-apis/public-apis,MDU6SXNzdWU2Nzg2MTk4MTU=,1334,Web Of Trust (WOT) link is dead.,5,2020-08-13T17:36:17Z,2020-10-01T19:58:20Z,2020-10-01T19:56:48Z
-jackfrued/Python-100-Days,MDU6SXNzdWU1MDI4OTc0MzI=,323,编程经验基本0，请教课程该如何学习,21,2019-10-05T01:07:05Z,2020-06-24T10:04:16Z,2020-02-16T07:48:49Z
-jackfrued/Python-100-Days,MDU6SXNzdWUzMjY3MDc3Njg=,3,迁移至 Gitbook,7,2018-05-26T04:02:37Z,2018-08-04T15:45:29Z,2018-07-01T15:09:24Z
-jackfrued/Python-100-Days,MDU6SXNzdWUzMjU1ODc1MTY=,1,Translation to ENG,7,2018-05-23T07:48:01Z,2018-12-23T03:43:56Z,2018-12-23T03:43:56Z
-jackfrued/Python-100-Days,MDU6SXNzdWUzMjU2Njc2NjQ=,2,你那个薪资待遇的数据统计能给个出处吗？Python只学爬虫找不到工作。,5,2018-05-23T11:42:14Z,2018-12-23T03:55:31Z,2018-12-23T03:55:31Z
-jackfrued/Python-100-Days,MDU6SXNzdWU0NDkwMzM3NzU=,165,我怀疑根本就没学到些什么,4,2019-05-28T02:12:12Z,2019-10-09T00:16:13Z,2019-10-09T00:16:13Z
-d3/d3,MDU6SXNzdWUyMDIyNTMy,349,Graphviz (Sugiyama) layout.,50,2011-10-22T13:09:42Z,2017-08-11T06:34:00Z,2017-01-06T17:24:58Z
-d3/d3,MDU6SXNzdWU2MzE5NDQ=,60,this/parent,45,2011-02-27T16:24:48Z,2011-03-11T16:59:56Z,2011-03-11T18:51:18Z
-d3/d3,MDU6SXNzdWU1NjYxNTA2Ng==,2220,Use ES6 Modules (and Rollup) instead of SMASH.,37,2015-02-05T01:35:36Z,2016-04-28T16:04:01Z,2015-11-20T17:27:47Z
-d3/d3,MDU6SXNzdWUyMDg1ODIxOA==,1578,geom.voronoi sometimes throws an error,32,2013-10-11T09:21:13Z,2014-01-21T16:32:40Z,2013-10-14T15:58:26Z
-d3/d3,MDU6SXNzdWUxNjk2NzM0MzY=,2936,Add links from API docs to source. Checklist.,31,2016-08-05T18:56:17Z,2016-08-24T15:27:51Z,2016-08-24T15:27:51Z
-facebook/react-native,MDU6SXNzdWUxMjM4MjgyMTQ=,4968,[Workarounds] Packager unable to resolve module from /Users/node_modules/,498,2015-12-24T18:52:47Z,2020-01-29T05:01:09Z,2019-01-29T23:29:29Z
-facebook/react-native,MDU6SXNzdWUyMzE2NDk4MTM=,14209,UnableToResolveError: Unable to resolve module `AccessibilityInfo`,321,2017-05-26T14:53:37Z,2019-12-11T05:01:13Z,2018-02-24T03:27:11Z
-facebook/react-native,MDU6SXNzdWUxNTIwMTQ3MzE=,7308,"Latest react-native app doesn't work  "":CFBundleIdentifier"", Does Not Exist",294,2016-04-30T07:05:24Z,2018-07-19T05:05:42Z,2016-05-02T18:19:40Z
-facebook/react-native,MDU6SXNzdWU1OTUzNzEyMDc=,28551,React Native 0.62.* [TypeError: Network request failed] on file upload,253,2020-04-06T19:31:16Z,2020-10-18T20:39:02Z,2020-09-29T15:56:19Z
-facebook/react-native,MDU6SXNzdWUxNTQwOTg5OTI=,7495,Geolocation 'enableHighAccuracy' on Android always times out,239,2016-05-10T20:27:56Z,2020-04-10T05:00:52Z,2019-04-10T08:41:33Z
-Snailclimb/JavaGuide,MDU6SXNzdWU0MzgwNDg4MjM=,293,uniqueInstance 中 volatile解释问题,20,2019-04-28T11:59:57Z,2020-09-06T14:22:11Z,2019-05-19T18:28:37Z
-Snailclimb/JavaGuide,MDU6SXNzdWU1Nzc3MjE1MzI=,676,招聘贴：阿里巴巴消息业务/基础团队招聘（校招/社招）,17,2020-03-09T08:00:34Z,2020-05-09T01:21:35Z,2020-05-09T01:21:35Z
-Snailclimb/JavaGuide,MDU6SXNzdWUzMjk4NjM2NzA=,1,欢迎大家提建议啊~~~,16,2018-06-06T13:18:05Z,2018-10-19T16:14:11Z,2018-10-19T16:14:11Z
-Snailclimb/JavaGuide,MDU6SXNzdWU0NjM1MjY5MTQ=,374,关于继承的问题,13,2019-07-03T03:33:35Z,2019-09-16T14:37:41Z,2019-09-16T14:37:41Z
-Snailclimb/JavaGuide,MDU6SXNzdWUzNTQ2MTUyNjU=,13,有几处觉得不太妥当的地方~,13,2018-08-28T08:01:39Z,2018-09-14T01:48:38Z,2018-09-14T01:48:38Z
-TheAlgorithms/Python,MDU6SXNzdWU3MTQxMDA3MTY=,2695,Add more solutions to Project Euler problems,30,2020-10-03T14:20:47Z,2020-10-18T02:01:50Z,2020-10-18T02:01:34Z
-TheAlgorithms/Python,MDU6SXNzdWU1MzM1Mzk3MDY=,1613,We are lacking some algorithms from simulations,22,2019-12-05T19:10:41Z,2020-06-16T15:13:28Z,2020-06-16T15:13:28Z
-TheAlgorithms/Python,MDU6SXNzdWUzMjIzNTExNTA=,297,Logo Proposal,21,2018-05-11T16:04:57Z,2018-05-29T07:21:41Z,2018-05-28T21:54:13Z
-TheAlgorithms/Python,MDU6SXNzdWUzMjg3MTI1NTk=,309,Adopt a more robust testing system,18,2018-06-02T04:35:02Z,2019-07-08T19:07:52Z,2019-07-08T15:27:52Z
-TheAlgorithms/Python,MDU6SXNzdWU0NzM3Mjg2OTY=,1085,Need more pytests,17,2019-07-28T10:22:18Z,2019-11-17T12:22:08Z,2019-11-17T12:22:08Z
-vinta/awesome-python,MDU6SXNzdWUxMTI3NzgxMDc=,489,Remove libraries that are not awesome,16,2015-10-22T10:55:28Z,2019-05-27T12:07:19Z,2019-05-27T12:07:19Z
-vinta/awesome-python,MDU6SXNzdWU2MDg4NDUyNDY=,1535,Add Tutorials / Learning Resources..,12,2020-04-29T07:40:36Z,2020-06-25T05:26:36Z,2020-06-06T19:03:50Z
-vinta/awesome-python,MDU6SXNzdWU1MzI4MjM0ODU=,1444,Awesome Python list maintenance,9,2019-12-04T17:16:48Z,2020-04-16T15:56:07Z,2019-12-15T15:50:42Z
-vinta/awesome-python,MDU6SXNzdWU0NTIwNzUzMA==,233,Libs candidate,7,2014-10-08T06:03:46Z,2017-01-07T06:22:49Z,2017-01-07T06:22:49Z
-vinta/awesome-python,MDU6SXNzdWUxMjMxNTEzNjA=,536,COC?,6,2015-12-20T10:14:32Z,2015-12-23T10:12:31Z,2015-12-23T10:12:31Z
-electron/electron,MDU6SXNzdWU0Mzc0MDQ0NjE=,17972,"The SUID sandbox helper binary was found, but is not configured correctly",151,2019-04-25T21:25:27Z,2020-10-13T14:26:03Z,2019-07-31T18:04:50Z
-electron/electron,MDU6SXNzdWU0ODcwNDAyMDE=,20027,Mac App Store Private API Rejection: Electron 5.0.10,144,2019-08-29T15:46:29Z,2020-05-01T05:36:27Z,2020-02-24T03:08:58Z
-electron/electron,MDU6SXNzdWUzMDYxNTk0MzI=,12337,Enable PDF Viewer,133,2018-03-17T14:11:33Z,2020-08-28T18:03:56Z,2020-02-13T00:39:13Z
-electron/electron,MDU6SXNzdWUzMjk2NzU3Mjc=,13164,Mojave dark mode causes a white line at the top of Electron apps,109,2018-06-06T01:07:40Z,2020-06-24T16:15:01Z,2019-02-10T03:11:39Z
-electron/electron,MDU6SXNzdWUxMjMwODcxOTU=,3871,Electron broken on OS X in Apple Sandboxed apps (App Store),109,2015-12-19T14:11:27Z,2019-06-18T18:05:45Z,2016-04-19T11:56:24Z
-danistefanovic/build-your-own-x,MDU6SXNzdWUzMjU5Njg3Mzc=,136,[Enhancement Proposal] : Create a Github Page,7,2018-05-24T05:25:31Z,2018-05-25T15:10:56Z,2018-05-25T15:10:56Z
-danistefanovic/build-your-own-x,MDU6SXNzdWUzMzA1ODM0MDE=,181,Create a chatbot in Elixir,6,2018-06-08T09:22:45Z,2018-06-08T17:18:43Z,2018-06-08T17:18:43Z
-danistefanovic/build-your-own-x,MDU6SXNzdWU1NzM1NTcxNTM=,447,Build a HTTP Server from Scratch in C,5,2020-03-01T14:35:16Z,2020-05-06T17:18:59Z,2020-05-06T17:18:59Z
-danistefanovic/build-your-own-x,MDU6SXNzdWUzNDEyOTg5MzU=,237,Building a Simple URL Shortener With Just HTML and Javascript,5,2018-07-15T07:07:20Z,2018-07-19T14:33:50Z,2018-07-19T14:33:50Z
-danistefanovic/build-your-own-x,MDU6SXNzdWUzMjQwMjI4NjQ=,83,Bitwise: Build your own software/hardware stack ,5,2018-05-17T13:27:55Z,2018-05-18T08:57:05Z,2018-05-17T21:31:02Z
-facebook/create-react-app,MDU6SXNzdWU1NjM3Mzg0MzM=,8465,npm ERR! 404 Not Found - GET https://registry.npmjs.org/error-ex,213,2020-02-12T04:08:10Z,2020-02-28T06:37:37Z,2020-02-13T15:44:31Z
-facebook/create-react-app,MDU6SXNzdWU0NTcyOTQzNTU=,7239,Browserslist error,161,2019-06-18T06:57:24Z,2019-06-27T15:55:48Z,2019-06-22T02:07:23Z
-facebook/create-react-app,MDU6SXNzdWUyMzE4NzY0NDk=,2398,Why was service worker merged into create react app?,154,2017-05-28T15:39:19Z,2018-10-02T02:04:40Z,2018-01-08T20:51:55Z
-facebook/create-react-app,MDU6SXNzdWUxNjU5OTU0MjA=,11,General feedback,152,2016-07-17T20:51:08Z,2016-12-05T20:30:41Z,2016-09-03T19:02:15Z
-facebook/create-react-app,MDU6SXNzdWUzNjQxNDg1MjY=,5103,Last call for Create React App v2,144,2018-09-26T18:09:27Z,2018-10-13T22:35:47Z,2018-10-02T01:48:12Z
-trekhleb/javascript-algorithms,MDU6SXNzdWU0MjI2NzI0MDM=,327,Proposal - we can rewrite everything in the Typescript?,9,2019-03-19T11:10:38Z,2019-03-22T06:24:56Z,2019-03-22T06:20:15Z
-trekhleb/javascript-algorithms,MDU6SXNzdWU2OTQwNTcxMTY=,535,quick sort problem,6,2020-09-05T10:39:54Z,2020-09-06T08:23:22Z,2020-09-06T06:43:57Z
-trekhleb/javascript-algorithms,MDU6SXNzdWUzNDgxNDI1Nzk=,145,Add Max Heap? ,6,2018-08-07T02:24:03Z,2018-08-17T07:33:53Z,2018-08-17T07:33:53Z
-trekhleb/javascript-algorithms,MDU6SXNzdWUzMjY3NDMyODg=,24,Workshopper,6,2018-05-26T14:43:10Z,2018-06-13T05:18:49Z,2018-06-13T05:18:49Z
-trekhleb/javascript-algorithms,MDU6SXNzdWU2OTkzNjg1MTA=,539,Opening for Full Stack JS Developer,5,2020-09-11T14:12:44Z,2020-09-14T15:47:26Z,2020-09-12T10:25:48Z
-jlevy/the-art-of-command-line,MDU6SXNzdWU4OTYxMDY4Nw==,82,Chinese translation and maintainer,12,2015-06-19T16:50:46Z,2016-01-07T16:04:08Z,2015-06-22T00:12:42Z
-jlevy/the-art-of-command-line,MDU6SXNzdWU5MDAyNzc4Mg==,103,Russian translation and maintainer,10,2015-06-22T06:52:36Z,2016-01-07T16:04:08Z,2015-07-30T06:50:29Z
-jlevy/the-art-of-command-line,MDU6SXNzdWUxMjcxNzc1MTU=,349,Traditional Chinese translation,9,2016-01-18T08:35:24Z,2016-01-25T23:58:34Z,2016-01-25T23:58:34Z
-jlevy/the-art-of-command-line,MDU6SXNzdWU5MDczOTUzMg==,121,Spanish translation and maintainer,8,2015-06-24T17:33:50Z,2016-01-07T16:04:08Z,2015-07-08T15:23:17Z
-jlevy/the-art-of-command-line,MDU6SXNzdWUxNzI0ODU4Mjc=,448,Coverage of PowerShell?,7,2016-08-22T15:42:38Z,2016-08-27T20:51:59Z,2016-08-26T15:56:35Z
-axios/axios,MDU6SXNzdWUxNjI2OTM2MzM=,362,Content-Type application/x-www-form-urlencoded,220,2016-06-28T14:02:30Z,2020-05-21T19:02:27Z,2019-12-19T16:10:01Z
-axios/axios,MDU6SXNzdWUyMjM2MTg4NDY=,853,Getting 'Cross-Origin Request Blocked' on a GET request,143,2017-04-23T07:36:06Z,2020-05-03T11:31:23Z,2017-08-17T20:02:47Z
-axios/axios,MDU6SXNzdWUxNTQxMzAwODQ=,318,Can't get a .post with 'Content-Type': 'multipart/form-data' to work,99,2016-05-10T23:37:31Z,2020-05-03T11:37:56Z,2016-05-23T19:13:40Z
-axios/axios,MDU6SXNzdWUyMzY2NTA3NzM=,960,Axios catch error returns javascript error not server response,87,2017-06-17T09:38:56Z,2020-05-22T13:09:03Z,2017-08-12T20:29:15Z
-axios/axios,MDU6SXNzdWU0NTA1NjM5Mjg=,2190,Request params are not getting merged with instance params,83,2019-05-31T00:34:55Z,2020-08-25T14:57:04Z,2020-08-25T14:57:04Z
-golang/go,MDU6SXNzdWU1MTI3NTg3OA==,9,I have already used the name for *MY* programming language,1095,2009-11-11T01:57:36Z,2017-02-16T07:35:23Z,2014-12-08T10:02:18Z
-golang/go,MDU6SXNzdWU0NTIyMzkyMTE=,32437,"Proposal: A built-in Go error check function, ""try""",808,2019-06-04T22:41:10Z,2020-07-07T10:48:20Z,2019-07-16T23:08:49Z
-golang/go,MDU6SXNzdWUyNDU0NjcwMTU=,21161,proposal: Go 2: simplify error handling with || err suffix,519,2017-07-25T16:54:58Z,2020-10-28T22:05:49Z,2018-08-30T01:12:33Z
-golang/go,MDU6SXNzdWUxNjUxNzk1NzM=,16339,Proposal: Alias declarations for Go,371,2016-07-12T21:00:07Z,2016-12-01T05:32:29Z,2016-11-04T19:57:35Z
-golang/go,MDU6SXNzdWU0NjE5MjUxOTk=,32825,"proposal: leave ""if err != nil"" alone?",314,2019-06-28T08:42:25Z,2019-12-10T04:08:59Z,2019-07-17T13:55:56Z
-nodejs/node,MDU6SXNzdWU1MDc4NDU5OQ==,37,logo ideas,878,2014-12-03T05:50:27Z,2019-08-15T04:53:24Z,2015-07-21T21:59:01Z
-nodejs/node,MDU6SXNzdWU1MDQxNDk1OQ==,11,Feature Request: Every async function returns Promise,323,2014-11-29T04:33:13Z,2019-08-15T04:53:27Z,2015-06-15T17:10:00Z
-nodejs/node,MDU6SXNzdWU1OTE1OTkxNw==,978,Reconciliation Proposal,222,2015-02-26T23:06:53Z,2015-10-23T13:30:05Z,2015-05-12T20:24:49Z
-nodejs/node,MDU6SXNzdWUxMjYzNDMzNzc=,4660,Buffer(number) is unsafe,208,2016-01-13T05:19:14Z,2016-05-30T06:29:58Z,2016-03-16T16:15:27Z
-nodejs/node,MDU6SXNzdWU3MjY4NjU0OA==,1592,gripe: deprecating fs.exists/existsSync,207,2015-05-02T19:25:40Z,2016-10-05T19:14:27Z,2016-10-05T19:11:59Z
-kubernetes/kubernetes,MDU6SXNzdWUxNzg5NjMwMTA=,33388,Up {e2e.go},2495,2016-09-23T20:08:39Z,2016-11-16T19:47:14Z,2016-11-16T19:47:14Z
-kubernetes/kubernetes,MDU6SXNzdWUxNzg5NDUyOTk=,33380,BeforeSuite {Kubernetes e2e suite},2061,2016-09-23T18:37:48Z,2016-12-15T22:13:29Z,2016-12-15T22:13:29Z
-kubernetes/kubernetes,MDU6SXNzdWUxNjQzNjk4NzU=,28615,kubernetes-e2e-gce-federation: broken test run,1528,2016-07-07T17:56:28Z,2016-11-17T20:14:20Z,2016-11-17T20:14:20Z
-kubernetes/kubernetes,MDU6SXNzdWUyMTQ2MDEzMzA=,43193,ci-kubernetes-e2e-gce-examples: broken test run,1295,2017-03-16T05:17:28Z,2019-04-22T15:10:42Z,2017-05-13T01:18:46Z
-kubernetes/kubernetes,MDU6SXNzdWUxODEyMTU5NzM=,34118,TearDown {e2e.go},1239,2016-10-05T17:24:18Z,2016-11-07T05:15:51Z,2016-11-07T05:15:51Z
-microsoft/terminal,MDU6SXNzdWU0NDExNjEzOTA=,489,Guide for build and installation,262,2019-05-07T10:35:22Z,2019-10-11T16:50:56Z,2019-07-11T22:28:58Z
-microsoft/terminal,MDU6SXNzdWU0NTAxMTc4OTU=,1060,"Add ""open Windows terminal here"" into right-click context menu",235,2019-05-30T03:52:31Z,2020-06-19T15:23:27Z,2020-05-28T15:42:14Z
-microsoft/terminal,MDU6SXNzdWU0NDEzMTk1MDM=,521,AltGR SEQUENCES DO NOT WORK -- Can't type any AltGr combinations in Windows Terminal,143,2019-05-07T16:14:12Z,2020-01-15T17:58:35Z,2019-08-07T17:39:35Z
-microsoft/terminal,MDU6SXNzdWU2MDQ0NTk1NTE=,5458,MEGATHREAD: Breaking settings changes in version 0.11!,72,2020-04-22T05:09:03Z,2020-07-09T19:05:18Z,2020-07-09T19:05:16Z
-microsoft/terminal,MDU6SXNzdWU0NDgyMDkzMTA=,979,Touchpad scrolling not possible,71,2019-05-24T14:45:21Z,2020-05-02T19:26:00Z,2020-04-01T16:58:17Z
-denoland/deno,MDU6SXNzdWUzMjgwMTQ5MTQ=,25,求不要更新了，老子学不动了,514,2018-05-31T06:52:23Z,2018-08-03T02:00:14Z,2018-05-31T08:01:17Z
-denoland/deno,MDU6SXNzdWUzMjgwODk4ODI=,47,Maybe need a package management tool,93,2018-05-31T10:49:35Z,2020-10-20T08:44:18Z,2018-05-31T14:15:02Z
-denoland/deno,MDU6SXNzdWU0NTM2MzExODg=,2473,1.0,79,2019-06-07T18:03:22Z,2020-06-27T13:11:32Z,2020-05-13T22:07:16Z
-denoland/deno,MDU6SXNzdWUzMzA0MDIzOTE=,203,import with absolute path?,71,2018-06-07T19:19:44Z,2020-05-17T19:42:13Z,2019-04-13T17:27:28Z
-denoland/deno,MDU6SXNzdWU1NjkxMTM1Njc=,4069,New cache layout broke VS code plugin,48,2020-02-21T18:27:56Z,2020-02-29T15:22:43Z,2020-02-29T15:22:31Z
-animate-css/animate.css,MDU6SXNzdWU0MzY3OTM4MjA=,928,It stoped working in latest Chrome and Firefox,32,2019-04-24T16:29:06Z,2020-04-04T03:07:28Z,2019-05-29T02:34:39Z
-animate-css/animate.css,MDU6SXNzdWU1MjI2OTQ5MTY=,993,Animate.css don't work in Vue.,25,2019-11-14T08:17:19Z,2020-07-12T11:50:58Z,2019-12-27T00:02:27Z
-animate-css/animate.css,MDU6SXNzdWUxODEyOTE1OA==,97,"Apologies, The Future, and More",22,2013-08-15T21:25:08Z,2014-07-27T08:59:16Z,2013-11-19T23:49:26Z
-animate-css/animate.css,MDU6SXNzdWUzNjEzNjc2Ng==,230,Can I use this in my Sass project?,21,2014-06-20T03:02:29Z,2014-09-04T12:55:02Z,2014-09-02T05:49:43Z
-animate-css/animate.css,MDU6SXNzdWUyNzc4ODEzOA==,158,[REQUEST]: SCSS version.,21,2014-02-18T11:56:00Z,2014-04-22T15:05:11Z,2014-04-22T15:05:11Z
-ossu/computer-science,MDU6SXNzdWUxMDk3MDU1MDU=,31,Students Profiles,683,2015-10-04T21:25:58Z,2017-05-15T07:37:09Z,2016-04-04T11:31:41Z
-ossu/computer-science,MDU6SXNzdWUxMTU1NDMzMTI=,206,Students Profiles #5,521,2015-11-06T16:46:22Z,2018-04-19T17:23:19Z,2016-04-04T11:33:12Z
-ossu/computer-science,MDU6SXNzdWUxMTA5MjcwOTk=,145,Students Profiles #3,267,2015-10-12T08:12:14Z,2020-04-18T16:22:22Z,2016-04-04T11:32:42Z
-ossu/computer-science,MDU6SXNzdWUxMTI0MTI5ODE=,180,Students Profiles #4,264,2015-10-20T16:52:05Z,2016-12-04T02:58:41Z,2016-04-04T11:32:53Z
-ossu/computer-science,MDU6SXNzdWUxMTAyODkwODg=,109,Students Profiles #2,260,2015-10-07T18:36:42Z,2018-12-24T20:57:25Z,2016-04-04T11:32:33Z
-labuladong/fucking-algorithm,MDU6SXNzdWU1NzI1NDI4ODU=,9,请求翻译组，english 分支接受各位的翻译成果,23,2020-02-28T06:11:13Z,2020-03-22T12:21:47Z,2020-03-22T12:21:47Z
-labuladong/fucking-algorithm,MDU6SXNzdWU1Nzc3MzUxMzQ=,192,招聘贴：阿里巴巴消息业务/基础团队招聘（校招/社招）,13,2020-03-09T08:29:19Z,2020-06-08T00:38:39Z,2020-06-08T00:38:39Z
-labuladong/fucking-algorithm,MDU6SXNzdWU2MjIwMjU1NzY=,285,bug 动态规划详解进阶 凑零钱问题有误,11,2020-05-20T19:20:06Z,2020-06-25T04:35:51Z,2020-06-17T12:11:30Z
-labuladong/fucking-algorithm,MDU6SXNzdWU1NzE5OTUzNDE=,8,Any chance of English translation?,10,2020-02-27T11:03:55Z,2020-03-11T08:57:11Z,2020-03-11T08:57:11Z
-labuladong/fucking-algorithm,MDU6SXNzdWU2MDgwMTA1OTA=,272,看这个有用么？,8,2020-04-28T04:12:41Z,2020-09-03T05:09:51Z,2020-09-03T05:09:51Z
-angular/angular,MDU6SXNzdWU0NzM1ODU5Mw==,133,"RFC: <proposal #someId [bind]=""expr"" (event)=""doWork()"">",352,2014-10-31T03:56:17Z,2019-09-13T08:52:14Z,2015-03-10T22:10:44Z
-angular/angular,MDU6SXNzdWUyMjU3Mjc2MjA=,16477,[i18n] plans,310,2017-05-02T15:14:22Z,2020-02-12T16:27:37Z,2020-02-12T16:27:21Z
-angular/angular,MDU6SXNzdWUyOTA1ODQ3ODU=,21706,Ivy Renderer (beta),211,2018-01-22T19:23:33Z,2020-03-16T16:09:06Z,2020-02-14T15:13:13Z
-angular/angular,MDU6SXNzdWUxNzU0Mzk3NTk=,11405,i18n: Able to use translation strings outside a template,204,2016-09-07T08:13:57Z,2020-09-25T10:42:29Z,2020-09-25T10:42:29Z
-angular/angular,MDU6SXNzdWUyMzY1NTMwNDE=,17572,ExpressionChangedAfterItHasBeenCheckedError: Expression has changed after it was checked on ng 4,201,2017-06-16T18:01:00Z,2019-09-15T07:51:03Z,2017-08-18T21:32:22Z
-tensorflow/models,MDU6SXNzdWUxNzk2Njc5MzM=,466,Pretrained model for img2txt?,111,2016-09-28T02:48:32Z,2020-05-31T18:06:08Z,2016-09-30T22:46:27Z
-tensorflow/models,MDU6SXNzdWU2NzIyNjYwMDk=,9033,convert TF2 ssd_mobilenet_v2 to tflite,110,2020-08-03T18:34:56Z,2020-10-13T18:39:01Z,2020-09-06T02:37:54Z
-tensorflow/models,MDU6SXNzdWU2NTg3MDgyNzQ=,8892,"Object Detection API 2.0, error with load checkpoints:  A checkpoint was restored (e.g. tf.train.Checkpoint.restore or tf.keras.Model.load_weights) but not all checkpointed values were used.",92,2020-07-17T00:49:44Z,2020-10-28T15:02:43Z,2020-08-21T09:42:21Z
-tensorflow/models,MDU6SXNzdWUyOTczMDAxNzM=,3387,DELF: Training procedure,83,2018-02-15T01:07:02Z,2020-05-04T21:49:08Z,2020-05-04T21:49:08Z
-tensorflow/models,MDU6SXNzdWUyMzY2MzM3Nzk=,1591,In object_detection_tutorial,81,2017-06-17T02:42:51Z,2019-12-10T04:22:19Z,2017-06-19T00:59:06Z
-puppeteer/puppeteer,MDU6SXNzdWUyNTA2ODk3NDU=,290,Chrome Headless doesn't launch on Debian,190,2017-08-16T16:40:59Z,2020-10-04T08:12:47Z,2018-11-21T18:57:06Z
-puppeteer/puppeteer,MDU6SXNzdWUyNzIzODgwNzE=,1325,"When would an error ""Cannot find context with specified id undefined"" happen?",103,2017-11-08T23:32:38Z,2019-03-15T22:05:57Z,2018-06-14T18:39:52Z
-puppeteer/puppeteer,MDU6SXNzdWUyNTE0MzA0NTE=,391,can't run puppeteer in centos7,78,2017-08-19T15:04:12Z,2020-08-13T21:06:19Z,2017-08-31T03:58:06Z
-puppeteer/puppeteer,MDU6SXNzdWUyNDMzMzAzNDU=,85,Support browser contexts to launch different sessions,77,2017-07-17T08:51:42Z,2019-10-20T21:04:20Z,2018-05-10T20:26:09Z
-puppeteer/puppeteer,MDU6SXNzdWUyNjE4NDQyMDc=,921,userDataDir + headless = lost authorization,63,2017-09-30T13:34:02Z,2020-10-08T23:04:01Z,2018-11-02T01:51:57Z
-microsoft/TypeScript,MDU6SXNzdWUzODM3MTQzOA==,185,Suggestion: non-nullable type,358,2014-07-22T06:01:58Z,2018-06-18T18:36:28Z,2016-04-26T16:49:22Z
-microsoft/TypeScript,MDU6SXNzdWUxMTQxMDA4MDg=,5453,Proposal: Variadic Kinds -- Give specific types to variadic functions,265,2015-10-29T17:14:57Z,2020-06-23T01:35:44Z,2020-06-23T01:35:44Z
-microsoft/TypeScript,MDU6SXNzdWUyMDQyNzM4MzE=,13778,Suggestion: option to include undefined in index signatures,237,2017-01-31T11:50:32Z,2020-10-23T19:51:23Z,2020-09-11T22:05:17Z
-microsoft/TypeScript,MDU6SXNzdWU0MTQ3OTIxNA==,563,Partial classes ,224,2014-08-29T08:09:13Z,2019-06-25T16:57:11Z,2017-04-03T22:54:35Z
-microsoft/TypeScript,MDU6SXNzdWUzNzkwNjM1MQ==,16,"Suggestion: ""safe navigation operator"", i.e. x?.y",205,2014-07-15T17:27:00Z,2019-09-30T19:33:29Z,2019-09-30T19:33:29Z
-30-seconds/30-seconds-of-code,MDU6SXNzdWUyODE4MzE3OTQ=,78,Snippet tests,51,2017-12-13T17:24:19Z,2019-12-18T17:42:34Z,2018-01-09T14:20:40Z
-30-seconds/30-seconds-of-code,MDU6SXNzdWUyODM5MjY2NDQ=,295,"[SUGGESTION] Array, xValues Generalizations ",37,2017-12-21T16:00:35Z,2019-12-18T15:40:08Z,2017-12-29T11:37:38Z
-30-seconds/30-seconds-of-code,MDU6SXNzdWUyODgyMjU4ODI=,538,Date Manipulating/Formatting Functions,34,2018-01-12T19:42:19Z,2019-12-18T14:38:47Z,2018-02-02T10:55:34Z
-30-seconds/30-seconds-of-code,MDU6SXNzdWUyODIwMDk4MDc=,100,Elect Lodash Methods To Demystify ~ Log,33,2017-12-14T07:49:51Z,2019-12-18T16:42:17Z,2018-01-28T13:24:21Z
-30-seconds/30-seconds-of-code,MDU6SXNzdWUyODU2NjM2MzI=,473,To Binary Tree or Not to Tree,32,2018-01-03T11:40:31Z,2019-12-18T14:39:11Z,2018-01-05T10:17:12Z
-mrdoob/three.js,MDU6SXNzdWUxNzI1NTIxNDE=,9562,Transform `examples/js` to support modules,339,2016-08-22T20:53:42Z,2019-11-25T12:06:57Z,2019-09-25T09:13:09Z
-mrdoob/three.js,MDU6SXNzdWUxNzg4MzMyNTM=,9754,HLS on Safari / IOS now not working,209,2016-09-23T09:50:44Z,2020-09-18T15:08:56Z,2016-12-20T10:29:28Z
-mrdoob/three.js,MDU6SXNzdWUzMjkxNjcxNg==,4776,Moving to a modular architecture,153,2014-05-06T17:57:44Z,2019-08-15T04:53:04Z,2016-07-22T13:29:16Z
-mrdoob/three.js,MDU6SXNzdWUzMjYyOTgxNDE=,14137,Textures Rendered as Black on (some?) devices with Android 7+,114,2018-05-24T21:16:13Z,2020-05-18T15:25:06Z,2018-07-18T15:30:00Z
-mrdoob/three.js,MDU6SXNzdWUyOTU5NjQ2Mzc=,13288,"SkinnedMesh bug when far from scene root (0,0,0)",113,2018-02-09T18:21:30Z,2019-06-05T14:52:06Z,2019-06-05T14:52:06Z
-ant-design/ant-design,MDU6SXNzdWUzOTM5NTc5MDc=,13848,🎅 关于 Ant Design 圣诞彩蛋及其修复方式,1097,2018-12-25T04:06:44Z,2018-12-26T14:37:49Z,2018-12-26T14:37:49Z
-ant-design/ant-design,MDU6SXNzdWUzNTYzNDgyNjc=,12011,Svg icons make bunlde size too large,223,2018-09-03T03:37:15Z,2020-08-22T20:26:16Z,2020-02-20T04:51:13Z
-ant-design/ant-design,MDU6SXNzdWUzNzk3NzkwMzU=,13098,🎄 Christmas easter egg 🎄,187,2018-11-12T13:34:28Z,2018-12-25T12:36:15Z,2018-12-25T02:11:19Z
-ant-design/ant-design,MDU6SXNzdWU0NTA4MjUwMjk=,16911,💥 Ant Design 4.0 is in progress!,182,2019-05-31T14:24:23Z,2020-09-11T14:29:20Z,2020-01-09T14:32:14Z
-ant-design/ant-design,MDU6SXNzdWUzOTM5NTA2NjA=,13830,Remove Festival themes Please,176,2018-12-25T02:44:19Z,2018-12-25T14:45:22Z,2018-12-25T02:55:57Z
-FortAwesome/Font-Awesome,MDU6SXNzdWUxMDkwMzMxNTQ=,7574,Icon request: icon-discord [will be available in Font Awesome 5],402,2015-09-30T07:41:10Z,2017-10-17T17:06:33Z,2017-09-22T16:31:28Z
-FortAwesome/Font-Awesome,MDU6SXNzdWU5NDQ5NDY1Mg==,6927,Icon request: free-code-camp,308,2015-07-11T17:51:00Z,2016-10-26T19:57:34Z,2016-10-05T20:27:52Z
-FortAwesome/Font-Awesome,MDU6SXNzdWUxMjM3MDcyNA==,878,Icon request: icon-handshake,308,2013-03-24T07:56:17Z,2018-04-10T09:37:13Z,2016-10-03T20:12:19Z
-FortAwesome/Font-Awesome,MDU6SXNzdWUxMjU4OTE4NQ==,897,"Icon request: icon-envelope-open, icon-envelope-open-o",284,2013-03-28T23:13:32Z,2017-01-26T13:54:43Z,2016-10-04T16:36:27Z
-FortAwesome/Font-Awesome,MDU6SXNzdWU3MjgwMDE5,492,Icon request: icon-hourglass set,256,2012-10-02T00:06:52Z,2015-08-28T06:42:51Z,2015-07-26T23:48:19Z
-mui-org/material-ui,MDU6SXNzdWU3MTcxODI2NQ==,593,Support React Native,119,2015-04-28T21:55:10Z,2020-01-31T21:26:04Z,2019-05-20T05:38:57Z
-mui-org/material-ui,MDU6SXNzdWUxNTAzNjcwNDU=,4066,[Core] There should be a more sophisticated styling solution.,100,2016-04-22T13:15:11Z,2018-04-22T12:47:42Z,2016-12-05T19:29:45Z
-mui-org/material-ui,MDU6SXNzdWU0ODI1NjI2OQ==,30,Refactor CSS into Javascript,95,2014-11-10T11:46:52Z,2018-04-22T12:42:33Z,2015-05-27T22:57:00Z
-mui-org/material-ui,MDU6SXNzdWUzMDgwMzkxNjI=,10778,Improve Material-UI performance,93,2018-03-23T13:57:45Z,2019-08-16T10:04:53Z,2019-08-16T10:04:52Z
-mui-org/material-ui,MDU6SXNzdWU4MjQwNjA0OA==,718,[TextField] Form autofill doesn't update floating label text on textfield,75,2015-05-29T12:23:16Z,2020-01-28T21:05:54Z,2017-07-28T11:30:28Z
-iluwatar/java-design-patterns,MDU6SXNzdWUzNjk4MDk0NzY=,798,Recognize contributors,164,2018-10-13T14:55:34Z,2020-08-17T16:10:26Z,2020-07-29T17:58:37Z
-iluwatar/java-design-patterns,MDU6SXNzdWU5OTUxMDI1NA==,190,The tool to make the class diagrams should be IDE independent,36,2015-08-06T19:46:27Z,2017-11-28T20:14:24Z,2017-11-28T20:13:59Z
-iluwatar/java-design-patterns,MDU6SXNzdWU1MDk0NzA4MzM=,1021,Checkstyle reports warnings,28,2019-10-19T15:46:34Z,2019-11-16T14:06:27Z,2019-11-16T14:06:13Z
-iluwatar/java-design-patterns,MDU6SXNzdWU5OTk2Nzk1Mg==,197,Accepting presentations for the design patterns,26,2015-08-10T04:24:50Z,2019-11-13T15:09:12Z,2019-11-13T15:09:12Z
-iluwatar/java-design-patterns,MDU6SXNzdWU1MDYxOTg1OTM=,987,Java 11 support: Utilize new methods,25,2019-10-12T15:08:24Z,2020-08-08T19:37:44Z,2020-08-08T19:37:44Z
-PanJiaChen/vue-element-admin,MDU6SXNzdWUyMjYxNjYwOTg=,24,node-sass 下载失败 解决方案,90,2017-05-04T02:52:30Z,2020-05-27T14:46:28Z,2017-05-04T03:01:45Z
-PanJiaChen/vue-element-admin,MDU6SXNzdWUyNzU5NDYzNDM=,293,请问路由配置可以动态的改变吗?,74,2017-11-22T05:07:04Z,2020-10-28T10:40:31Z,2017-11-22T05:30:45Z
-PanJiaChen/vue-element-admin,MDU6SXNzdWU2MDM2ODE0MjM=,3127,npm run dev 运行项目有个报错,51,2020-04-21T03:39:22Z,2020-04-21T12:12:16Z,2020-04-21T12:12:16Z
-PanJiaChen/vue-element-admin,MDU6SXNzdWUyNzk2NzE3MDE=,330,图标的颜色怎么修改呀,38,2017-12-06T08:50:34Z,2020-09-28T03:46:44Z,2017-12-06T09:19:36Z
-PanJiaChen/vue-element-admin,MDU6SXNzdWUyNTEyNDU3Mzg=,167,路由权限的修改，建议增加一个根据角色进行可视化编辑的页面,37,2017-08-18T13:30:17Z,2020-06-20T05:45:02Z,2019-04-07T15:13:15Z
-MisterBooo/LeetCodeAnimation,MDU6SXNzdWUzODkwMjk2MjM=,1,动图怎么做的？ ,11,2018-12-09T14:43:06Z,2018-12-12T15:32:09Z,2018-12-11T00:38:43Z
-MisterBooo/LeetCodeAnimation,MDU6SXNzdWUzOTQ3NjI3MTM=,7,感谢博主分享的LeetCode图解,3,2018-12-29T05:23:29Z,2019-01-02T02:57:13Z,2018-12-29T06:07:12Z
-MisterBooo/LeetCodeAnimation,MDU6SXNzdWU2ODg1NTM5Mzg=,120,there has a new repo which more problems be done,2,2020-08-29T15:32:54Z,2020-10-13T04:42:50Z,2020-10-13T04:42:49Z
-MisterBooo/LeetCodeAnimation,MDU6SXNzdWU2ODE1NjE4MjI=,118,https://www.algomooc.com/ 这个地址挂掉了,2,2020-08-19T05:39:47Z,2020-08-29T15:26:04Z,2020-08-28T08:59:58Z
-MisterBooo/LeetCodeAnimation,MDU6SXNzdWU2Nzg5MzM1Njc=,116,建议添加贡献方式，提高整体效率,2,2020-08-14T06:27:31Z,2020-08-19T03:55:01Z,2020-08-19T03:55:01Z
-angular/angular.js,MDU6SXNzdWU3MDU0OTU0,1404,dynamic element validation,235,2012-09-21T22:50:23Z,2017-02-22T16:11:13Z,2014-09-23T20:05:09Z
-angular/angular.js,MDU6SXNzdWU3NTk5NDYy,1460,Form model doesn't update on autocomplete,198,2012-10-15T17:26:20Z,2014-12-03T21:29:30Z,2014-02-06T20:02:31Z
-angular/angular.js,MDU6SXNzdWU5MjI2ODc3,1699,Option on $location to allow hash/path change w/o reloading the route,194,2012-12-12T18:44:10Z,2018-06-08T08:11:34Z,2018-06-08T08:11:33Z
-angular/angular.js,MDU6SXNzdWU0MzAwOTQyNA==,9128,(iOS 8 GM iPhone5C) TypeError: Attempted to assign to readonly property,163,2014-09-17T13:16:48Z,2016-12-16T11:55:53Z,2016-06-01T12:08:54Z
-angular/angular.js,MDU6SXNzdWU5MjA3MTIyOA==,12241,Infinite digest on location change on iOS 9 w/ UIWebView (not in Safari/ WKWebView),154,2015-06-30T11:46:03Z,2016-04-01T06:55:30Z,2015-09-14T20:28:51Z
-moby/moby,MDU6SXNzdWUyNzI1NjUyMA==,4036,docker fails to mount the block device for the container on devicemapper,391,2014-02-10T11:01:55Z,2016-07-14T11:19:01Z,2015-04-10T20:52:49Z
-moby/moby,MDU6SXNzdWUxOTY3NDIwOA==,1916,docker build should support privileged operations,286,2013-09-18T11:07:11Z,2020-02-26T08:25:53Z,2019-09-11T08:29:07Z
-moby/moby,MDU6SXNzdWUxNjQxNzcyMw==,1143,Document how to connect to Docker host from container,263,2013-07-05T20:33:17Z,2019-02-21T08:31:04Z,2013-12-02T16:26:26Z
-moby/moby,MDU6SXNzdWUxMTg1MTUzNzM=,18180,"Docker 1.9.1 hanging at build step ""Setting up ca-certificates-java""",258,2015-11-24T01:53:15Z,2017-02-14T18:49:56Z,2016-01-11T19:11:28Z
-moby/moby,MDU6SXNzdWUyMTc4MDEzODI=,32195,Swarm is having occasional network connection problems between nodes.,250,2017-03-29T08:30:10Z,2018-02-07T19:39:14Z,2018-02-07T19:24:23Z
-avelino/awesome-go,MDU6SXNzdWUyMzM1ODEyNjI=,1446,Please curate this list,51,2017-06-05T13:00:32Z,2020-08-17T11:41:13Z,2020-08-12T18:02:28Z
-avelino/awesome-go,MDU6SXNzdWU0OTQ5NzA5OTM=,2718,None of the owners is reviewing PRs?,24,2019-09-18T03:46:31Z,2019-10-07T15:14:39Z,2019-10-07T15:14:39Z
-avelino/awesome-go,MDU6SXNzdWUzNzI3ODEwNQ==,66,Bring existing list into conformity with contribution guidelines,18,2014-07-07T15:14:04Z,2015-01-26T05:19:42Z,2015-01-26T05:19:33Z
-avelino/awesome-go,MDU6SXNzdWU0OTIyOTQxNzY=,2712,Should included packages have any particular license?,17,2019-09-11T15:00:39Z,2020-07-13T10:40:04Z,2020-07-13T10:40:04Z
-avelino/awesome-go,MDU6SXNzdWUxMTgyMzYzMzc=,683,Automate the acceptance of high quality repos ,17,2015-11-22T03:29:24Z,2016-11-17T02:25:38Z,2016-11-17T02:25:38Z
-vuejs/awesome-vue,MDU6SXNzdWUyMDU5NjMzMzk=,836,Improving Awesome Vue.js,33,2017-02-07T17:43:59Z,2017-03-28T21:14:38Z,2017-03-28T21:14:38Z
-vuejs/awesome-vue,MDU6SXNzdWUzODk2OTY1OTE=,2586,Inaccessible component libraries,6,2018-12-11T10:35:04Z,2020-03-13T15:29:17Z,2020-03-13T15:29:16Z
-vuejs/awesome-vue,MDU6SXNzdWUyNzcxNjYwNTI=,1700,webpack: Failed to compile. Does Vue need Python 2.7 to build?,5,2017-11-27T20:56:27Z,2019-01-09T06:55:48Z,2019-01-09T05:34:32Z
-vuejs/awesome-vue,MDU6SXNzdWUxNjAxMzAxMTE=,261,Link is dead.,5,2016-06-14T08:58:23Z,2016-06-14T12:41:24Z,2016-06-14T12:41:24Z
-vuejs/awesome-vue,MDU6SXNzdWU1MDY0NzczMzI=,3023,404,4,2019-10-14T06:53:59Z,2020-03-16T15:07:56Z,2020-03-16T14:54:14Z
-nvbn/thefuck,MDU6SXNzdWU2OTE5ODc2Nw==,2,"Output is always ""No fucks given""",41,2015-04-17T19:10:21Z,2015-11-07T19:24:19Z,2015-04-24T03:07:02Z
-nvbn/thefuck,MDU6SXNzdWU5Nzg5MzAwMA==,322,Add vagrant support,32,2015-07-29T09:16:39Z,2018-10-29T09:15:57Z,2018-10-29T09:15:57Z
-nvbn/thefuck,MDU6SXNzdWUxNzc2NDAzOTg=,549,No longer works with an alias to “git push”,25,2016-09-18T09:06:18Z,2018-05-29T13:37:34Z,2018-01-05T14:12:08Z
-nvbn/thefuck,MDU6SXNzdWUxMTQzNzMxOTk=,398,Can't use with out of range(128) characters,20,2015-10-30T23:36:56Z,2017-03-13T22:53:35Z,2017-03-13T22:53:35Z
-nvbn/thefuck,MDU6SXNzdWU4NzQwMjgyMg==,253,Git push on new branch,20,2015-06-11T16:25:59Z,2017-03-14T01:34:50Z,2017-03-14T01:34:50Z
-webpack/webpack,MDU6SXNzdWU1MDU4Mzg0MzM=,9802,webpack 5 beta feedback,507,2019-10-11T12:59:50Z,2020-10-22T05:54:17Z,2020-09-01T08:49:13Z
-webpack/webpack,MDU6SXNzdWU1NjE0MTQ3NTM=,10352,Merge Proposal: Module federation and code sharing between bundles. Many builds act as one,393,2020-02-07T04:32:40Z,2020-10-07T07:40:59Z,2020-10-07T07:40:59Z
-webpack/webpack,MDU6SXNzdWUzOTM0NzQyMzM=,8537,webpack 5 alpha feedback,277,2018-12-21T14:18:26Z,2020-06-17T10:26:24Z,2019-10-11T13:01:15Z
-webpack/webpack,MDU6SXNzdWU2NzIwOTkxNw==,959,Uncaught TypeError: Cannot read property 'call' of undefined,253,2015-04-08T20:14:57Z,2020-10-04T00:49:29Z,2016-12-22T07:41:15Z
-webpack/webpack,MDU6SXNzdWUxMzg3ODMxNzc=,2145,Source Maps don't work on Chrome,225,2016-03-06T11:09:23Z,2020-10-13T03:47:50Z,2017-08-24T17:46:56Z
-vercel/next.js,MDU6SXNzdWU1MjgzNDg4MzM=,9524,Static Generation / SSG Improvements,250,2019-11-25T21:31:53Z,2020-03-13T09:40:52Z,2020-03-09T21:04:14Z
-vercel/next.js,MDU6SXNzdWUxODYwODY0NzY=,153,Add login / authentication example,207,2016-10-29T16:10:34Z,2020-06-12T10:50:30Z,2018-12-14T22:05:55Z
-vercel/next.js,MDU6SXNzdWU0NDM0NTkxMTM=,7322,Warning: Prop className did not match.,150,2019-05-13T15:20:36Z,2020-10-23T18:05:25Z,2019-09-24T14:00:21Z
-vercel/next.js,MDU6SXNzdWUxODU0MDM1OTc=,88,Top-level app component and animated route transitions,135,2016-10-26T14:06:12Z,2019-05-17T15:29:40Z,2018-04-12T08:33:23Z
-vercel/next.js,MDU6SXNzdWUzMTg4MjE5OTc=,4227,Build error next.js 6.0.0,125,2018-04-30T08:49:50Z,2019-09-17T21:41:12Z,2018-05-01T16:02:05Z
-reduxjs/redux,MDU6SXNzdWU5Njg1NzcwMQ==,310,Who uses Redux?,246,2015-07-23T16:55:35Z,2020-10-20T01:07:53Z,2017-03-12T23:55:02Z
-reduxjs/redux,MDU6SXNzdWUxNDE3NTYzMDU=,1528,Reducer Composition with Effects in JavaScript,209,2016-03-18T02:29:12Z,2018-05-12T19:50:38Z,2017-03-12T23:47:54Z
-reduxjs/redux,MDU6SXNzdWU4OTc1Mjk4NQ==,151,Redux's brand id,174,2015-06-20T10:43:59Z,2018-05-12T19:49:42Z,2016-04-26T16:23:41Z
-reduxjs/redux,MDU6SXNzdWU5NTk5MTQzNQ==,291,Trying to put API calls in the correct place,115,2015-07-20T05:39:59Z,2018-05-12T19:49:47Z,2015-08-14T20:17:10Z
-reduxjs/redux,MDU6SXNzdWUyMTUyMzc0Nzk=,2295,"Request for Discussion: Redux ""boilerplate"", learning curve, abstraction, and opinionatedness",108,2017-03-19T02:59:07Z,2019-01-22T04:23:03Z,2018-02-15T21:42:11Z
-storybookjs/storybook,MDU6SXNzdWUyNjE4NjUzMTY=,1921,Dependencies.io troubleshooting,142,2017-09-30T19:08:32Z,2018-11-08T14:30:26Z,2018-11-08T14:30:26Z
-storybookjs/storybook,MDU6SXNzdWU0MjM0MzUzMDI=,6204,Storybook v5 breaks when using core-js ^3.0,99,2019-03-20T19:33:26Z,2020-09-11T19:28:32Z,2019-06-13T22:18:19Z
-storybookjs/storybook,MDU6SXNzdWUzOTY5NjgxNzM=,5183,babel-loader conflicts with create-react-app 2.1.3,83,2019-01-08T15:52:46Z,2019-12-18T16:05:40Z,2019-04-11T23:04:55Z
-storybookjs/storybook,MDU6SXNzdWUxNTE1NDM5Nzk=,151,Substories/Hierarchy,79,2016-04-28T03:54:12Z,2020-05-28T03:27:19Z,2017-07-31T15:47:38Z
-storybookjs/storybook,MDU6SXNzdWUzMTA5NDI3OTY=,3346,Error: exports is not defined,78,2018-04-03T18:15:09Z,2020-05-13T07:21:45Z,2020-01-21T14:42:26Z
-goldbergyoni/nodebestpractices,MDU6SXNzdWU0ODE5NDE4MzE=,459,All contributors bot implementation,173,2019-08-18T01:21:06Z,2020-06-16T18:18:52Z,2019-08-22T04:57:39Z
-goldbergyoni/nodebestpractices,MDU6SXNzdWUyOTI1NzgyODY=,133,Security best practices - kicking off,77,2018-01-29T22:06:23Z,2018-09-04T01:30:44Z,2018-09-04T01:30:44Z
-goldbergyoni/nodebestpractices,MDU6SXNzdWUyNzg3MjEzMzM=,95,Spanish translation (buena suerte),70,2017-12-02T21:57:08Z,2020-09-14T07:11:06Z,2020-03-29T09:04:11Z
-goldbergyoni/nodebestpractices,MDU6SXNzdWUzNjQwOTE2NTY=,256,Performance & diagnostics best practices - call for ideas,51,2018-09-26T15:34:15Z,2020-10-12T15:07:29Z,2019-06-29T18:11:24Z
-goldbergyoni/nodebestpractices,MDU6SXNzdWUyOTEyNTA0ODA=,129,French translation,45,2018-01-24T15:29:46Z,2020-06-24T15:48:05Z,2020-06-24T15:48:05Z
-jquery/jquery,MDU6SXNzdWU0ODU4MDUyOA==,1862,Figure out how we are going to tag jQuery Compat releases,60,2014-11-13T00:02:57Z,2018-06-19T06:20:02Z,2014-11-16T01:58:31Z
-jquery/jquery,MDU6SXNzdWUxNjE2ODYzMjM=,3193,different result of width() and height() since jQuery 3.0,55,2016-06-22T13:43:24Z,2018-06-18T02:27:56Z,2017-03-13T17:33:51Z
-jquery/jquery,MDU6SXNzdWUyMDczODkzNjM=,3541,Issue using JQuery 3.1.1 and CSP,51,2017-02-14T01:20:00Z,2019-08-08T21:33:04Z,2019-01-14T18:29:55Z
-jquery/jquery,MDU6SXNzdWU3NTg5MDcxNQ==,2308,"slideDown, show and more stopped working for `display: none` elements",51,2015-05-13T08:00:27Z,2018-06-19T01:19:58Z,2016-01-13T21:06:06Z
-jquery/jquery,MDU6SXNzdWUxMjY1NDc3OTE=,2824,1.12.0 vs 1.11.2 selectors with # broken,48,2016-01-14T00:20:24Z,2016-12-17T14:56:09Z,2016-04-18T17:05:31Z
-hakimel/reveal.js,MDU6SXNzdWU3NTgzMDQ0,180,Vertically fill screen 100%?,32,2012-10-15T04:07:21Z,2018-02-20T17:01:04Z,2012-10-24T21:09:53Z
-hakimel/reveal.js,MDU6SXNzdWUxNTg4NzcyOQ==,503,Help with Master/Client presentation,29,2013-06-22T17:56:51Z,2013-06-27T22:22:48Z,2013-06-27T22:22:48Z
-hakimel/reveal.js,MDU6SXNzdWU0NTA5NjY4,39,Change the style transition between two slides?,29,2012-05-10T09:39:12Z,2019-08-27T17:35:34Z,2013-03-31T03:37:27Z
-hakimel/reveal.js,MDU6SXNzdWUyODI3NjMxNQ==,808,New PDF export issue,27,2014-02-25T19:39:38Z,2016-05-26T11:42:17Z,2014-02-28T11:21:13Z
-hakimel/reveal.js,MDU6SXNzdWU4NTYzODQyOQ==,1258,SVG animation,25,2015-06-05T21:38:56Z,2019-11-21T19:46:34Z,2015-06-11T23:02:13Z
-atom/atom,MDU6SXNzdWUzNzc1Mjg3NQ==,2956,Add Linux software repositories for app update support,258,2014-07-14T00:42:02Z,2019-03-02T20:19:55Z,2017-12-21T19:32:13Z
-atom/atom,MDU6SXNzdWUzNjAxNDg3Mw==,2654,Editor window startup is slow,247,2014-06-18T18:41:28Z,2020-08-24T09:36:08Z,2019-12-08T15:59:27Z
-atom/atom,MDU6SXNzdWU3ODU3MTI3Mw==,6867,Atom packages that require an upgrade to 1.0 API,202,2015-05-20T15:32:10Z,2019-01-21T12:04:00Z,2015-06-04T23:30:21Z
-atom/atom,MDU6SXNzdWU1MDk1MzE1NjA=,20034,Crashing on macOS 10.15,151,2019-10-20T01:35:48Z,2020-04-10T19:36:34Z,2020-03-20T20:43:49Z
-atom/atom,MDU6SXNzdWU1NjE2NjExMQ==,5344,Tab switching (ctrl-tab) should be in MRU order,149,2015-02-01T15:04:51Z,2016-04-29T22:40:02Z,2016-02-28T20:32:52Z
-pallets/flask,MDU6SXNzdWU1OTU4ODQ4MA==,1361,Method `render_template` does not use blueprint specified `template_folder`,57,2015-03-03T03:06:26Z,2020-08-28T16:02:45Z,2016-05-22T10:17:20Z
-pallets/flask,MDU6SXNzdWUxMDg3MTIxOTQ=,1575,What is the release schedule for 1.0?,46,2015-09-28T17:54:51Z,2016-06-02T19:06:28Z,2016-06-02T19:06:28Z
-pallets/flask,MDU6SXNzdWU2NjU4ODg3Ng==,1421,`request.json` deprecation discussion,43,2015-04-06T11:51:02Z,2017-06-26T16:47:53Z,2017-06-26T16:47:53Z
-pallets/flask,MDU6SXNzdWU0MTkyMDU1MA==,1169,"BUG in ""send_file"" and ""send_from_directory""",40,2014-09-04T10:38:47Z,2019-06-10T13:29:22Z,2015-11-07T09:15:11Z
-pallets/flask,MDU6SXNzdWUxMTQ0NTE1MTY=,1602,allow using alternative json library,39,2015-11-01T05:32:18Z,2018-08-18T01:25:36Z,2017-05-31T19:04:39Z
-elastic/elasticsearch,MDU6SXNzdWUyNDYzMDA=,256,Field Collapsing/Combining,244,2010-07-13T17:02:32Z,2015-06-14T01:24:50Z,2014-05-23T14:08:10Z
-elastic/elasticsearch,MDU6SXNzdWUyNjM5MzMyNw==,4915,Paging support for aggregations,207,2014-01-27T20:48:34Z,2016-12-16T13:36:49Z,2016-11-24T16:23:48Z
-elastic/elasticsearch,MDU6SXNzdWUyODIyNTM1,1607,Update API: update by query,160,2012-01-12T19:36:40Z,2018-02-13T19:42:48Z,2014-07-18T07:52:26Z
-elastic/elasticsearch,MDU6SXNzdWU1MzkyNzA2OA==,9226,Shard stuck in relocating state with recovery stage=translog,151,2015-01-09T23:10:42Z,2015-06-03T11:19:45Z,2015-06-03T11:19:44Z
-elastic/elasticsearch,MDU6SXNzdWU5MzI2Mzc3,2488,minimum_master_nodes does not prevent split-brain if splits are intersecting,103,2012-12-17T08:15:54Z,2016-02-26T16:31:11Z,2014-09-01T14:58:42Z
-tonsky/FiraCode,MDU6SXNzdWUxMjM0MjE3NDM=,96,Partial IntelliJ IDEA support,52,2015-12-22T06:15:43Z,2018-01-19T21:38:11Z,2016-07-16T13:10:49Z
-tonsky/FiraCode,MDU6SXNzdWU0NzA5OTM4Njg=,798,1.207 looks terrible in Emacs,51,2019-07-22T09:38:00Z,2020-10-27T09:35:27Z,2019-09-09T17:53:14Z
-tonsky/FiraCode,MDU6SXNzdWUxOTA3MzMxNTA=,312,Prettify-symbols config for emacs ,47,2016-11-21T14:33:40Z,2020-02-29T19:45:28Z,2018-11-28T11:16:35Z
-tonsky/FiraCode,MDU6SXNzdWUxMjMyODMwOTA=,92,Is ◻ instead of [] a good idea?,34,2015-12-21T13:52:08Z,2016-12-06T04:43:01Z,2016-08-30T11:34:50Z
-tonsky/FiraCode,MDU6SXNzdWU1Mzc3NDY3MA==,4,Add install instruction,27,2015-01-08T17:07:53Z,2018-08-19T22:28:59Z,2015-08-09T21:02:39Z
-spring-projects/spring-boot,MDU6SXNzdWUxMTk5MDk1OTI=,4657,Allow the embedded web server to be shut down gracefully,100,2015-12-02T10:14:14Z,2020-05-04T07:31:43Z,2020-03-09T18:12:57Z
-spring-projects/spring-boot,MDU6SXNzdWUxODEyNDkyMzA=,7107,Log a warning on startup when spring.jpa.open-in-view is enabled but user has not explicitly opted in,96,2016-10-05T19:52:37Z,2018-01-31T00:39:32Z,2017-10-30T13:07:55Z
-spring-projects/spring-boot,MDU6SXNzdWUxMTU0NTY5NjQ=,4393,Support Thymeleaf 3,63,2015-11-06T08:05:35Z,2017-08-25T08:18:25Z,2016-07-12T22:02:34Z
-spring-projects/spring-boot,MDU6SXNzdWUyMTc1NDI4MDU=,8762,Allow @ConfigurationProperties binding for immutable POJOs,58,2017-03-28T12:27:46Z,2019-05-21T13:12:42Z,2019-04-16T09:33:28Z
-spring-projects/spring-boot,MDU6SXNzdWU0NzE5NDA0NQ==,1788,Overriding logging properties like FILE_LOG_PATTERN,55,2014-10-29T19:40:31Z,2017-03-07T20:31:03Z,2015-06-26T23:06:24Z
-socketio/socket.io,MDU6SXNzdWUxMzIxOTc4,438,"High rate of ""client not handshaken should reconnect""",299,2011-08-01T10:15:22Z,2014-08-19T01:49:54Z,2014-08-19T00:24:23Z
-socketio/socket.io,MDU6SXNzdWUxMzA5Mzk0,434,Add wildcard support for events,130,2011-07-29T11:13:49Z,2020-06-30T00:48:17Z,2013-05-20T00:55:02Z
-socketio/socket.io,MDU6SXNzdWU1NDI5NzE3OQ==,1942,Error during WebSocket handshake: Unexpected response code: 400,128,2015-01-14T08:48:13Z,2020-09-23T14:43:43Z,2017-05-20T06:32:39Z
-socketio/socket.io,MDU6SXNzdWU0NzIyMjg1NQ==,1846,AWS EC2 Behind ELB Always Prints Error Unexpected response code: 400,66,2014-10-30T01:06:17Z,2019-12-14T21:16:38Z,2014-12-26T00:00:28Z
-socketio/socket.io,MDU6SXNzdWUxMzAxMTA0,429,hybi10 incompatibility,63,2011-07-28T06:55:31Z,2012-02-01T21:56:31Z,2011-08-29T22:15:50Z
-chartjs/Chart.js,MDU6SXNzdWUxMjk4MTkyOQ==,73,Horizontal bar chart?,200,2013-04-09T17:17:33Z,2019-11-28T13:03:01Z,2016-05-04T00:04:16Z
-chartjs/Chart.js,MDU6SXNzdWUxMjEzNTI1MQ==,12,Line Chart - Data series without label for each point,96,2013-03-18T14:19:26Z,2018-07-27T21:14:47Z,2015-06-04T04:28:40Z
-chartjs/Chart.js,MDU6SXNzdWUxMzI4OTUwNQ==,78,Label inside donut chart,81,2013-04-17T10:19:17Z,2019-01-23T15:13:42Z,2018-11-14T10:35:29Z
-chartjs/Chart.js,MDU6SXNzdWU1MzAwNjkzMQ==,833,Interested Collaborators,79,2014-12-28T18:51:20Z,2015-03-17T13:44:34Z,2014-12-29T23:19:16Z
-chartjs/Chart.js,MDU6SXNzdWU0MjQ2NTM1MA==,622,Tool tip is cut off on rightmost point,76,2014-09-10T21:51:21Z,2020-07-07T14:26:44Z,2020-01-09T16:26:51Z
-shadowsocks/shadowsocks-windows,MDU6SXNzdWU0NTEwNDc5NDM=,2366,6月的第一天突然无法上网（手机PC端同时）,104,2019-06-01T05:30:46Z,2019-06-10T02:17:38Z,2019-06-07T03:35:26Z
-shadowsocks/shadowsocks-windows,MDU6SXNzdWU1NDUzNjY0MTQ=,2756,Discuss infrastructure improvements for the next major release,101,2020-01-05T04:07:48Z,2020-10-10T07:11:01Z,2020-10-10T07:11:01Z
-shadowsocks/shadowsocks-windows,MDU6SXNzdWU0ODE2ODM3OQ==,32,Data Corruption,77,2014-11-08T15:10:16Z,2014-11-13T14:44:37Z,2014-11-11T17:52:37Z
-shadowsocks/shadowsocks-windows,MDU6SXNzdWUxMDE1MDY0MTc=,293,AppData & temp & 当前目录,74,2015-08-17T20:45:04Z,2016-09-25T23:58:01Z,2015-08-19T14:32:08Z
-shadowsocks/shadowsocks-windows,MDU6SXNzdWU5ODA2MDk5Ng==,247, failed to recv data in handshakeReceive2Callback,71,2015-07-30T00:58:38Z,2016-06-08T01:09:06Z,2015-08-20T03:52:07Z
-expressjs/express,MDU6SXNzdWUxMjU3OTMxOTQ=,2844,is express dying?,170,2016-01-10T01:59:45Z,2016-02-29T19:14:51Z,2016-01-29T00:16:06Z
-expressjs/express,MDU6SXNzdWUzODU5MDA0OQ==,2259,promises,63,2014-07-24T01:27:09Z,2019-02-15T14:13:56Z,2018-10-27T03:17:16Z
-expressjs/express,MDU6SXNzdWUyOTQ1NDAzMzk=,3552,Memory Leak,59,2018-02-05T20:59:57Z,2020-07-11T15:14:15Z,2018-04-14T16:17:54Z
-expressjs/express,MDU6SXNzdWUyMzUxMzc4MA==,1838,Express 4.0,53,2013-11-30T01:57:27Z,2014-04-10T00:36:12Z,2014-03-02T21:02:47Z
-expressjs/express,MDU6SXNzdWUzNzIzNzA3MQ==,2218,refactor router,52,2014-07-07T03:32:27Z,2014-11-26T01:36:03Z,2014-11-26T01:36:00Z
-typicode/json-server,MDU6SXNzdWUxNzk1MTEyMzE=,370,Command to start json-server is not working.,28,2016-09-27T14:35:14Z,2020-10-28T09:47:42Z,2016-11-10T11:47:24Z
-typicode/json-server,MDU6SXNzdWUxMDQwNTQ1MjM=,177,json-server cache the data?,22,2015-08-31T13:33:20Z,2020-07-05T10:19:45Z,2015-12-28T19:17:10Z
-typicode/json-server,MDU6SXNzdWU3MzM4NDY1Mw==,72,Nested requests returning 404,22,2015-05-05T18:02:57Z,2019-01-10T18:40:10Z,2015-05-13T15:48:52Z
-typicode/json-server,MDU6SXNzdWUyMDAxMjA3MDg=,453,Is it possible to 'get' data using POST with json-server?,17,2017-01-11T15:19:07Z,2020-06-13T13:26:36Z,2017-08-14T13:52:50Z
-typicode/json-server,MDU6SXNzdWUxMzg3OTA4MjU=,244,Support for HTTPS,15,2016-03-06T13:26:54Z,2019-11-19T02:35:28Z,2016-04-03T01:47:24Z
-keras-team/keras,MDU6SXNzdWU5NTIxMTc1NQ==,395,is the Sequence to Sequence learning right?,219,2015-07-15T14:38:31Z,2018-02-05T09:49:07Z,2015-08-13T14:33:52Z
-keras-team/keras,MDU6SXNzdWUxNDk5NDk5MzQ=,2436,Does Keras support using multiple GPUs?,162,2016-04-21T03:14:01Z,2019-11-21T01:36:50Z,2017-11-09T02:11:22Z
-keras-team/keras,MDU6SXNzdWU3MzI0MzU1Ng==,98,"""real time"" recurrent nets",131,2015-05-05T08:14:05Z,2016-06-18T00:30:30Z,2015-12-11T16:32:46Z
-keras-team/keras,MDU6SXNzdWUxOTkzNzk5MzA=,4962,How to add Attention on top of a Recurrent Layer (Text Classification),114,2017-01-07T19:24:46Z,2020-10-17T05:29:25Z,2017-01-24T10:06:06Z
-keras-team/keras,MDU6SXNzdWUxMTIwNTkzNTU=,853,Incorporating Word Vectors rather than using an Embedding class,111,2015-10-19T02:13:51Z,2018-10-25T00:15:41Z,2018-10-25T00:15:41Z
-opencv/opencv,MDU6SXNzdWUyMDcwNDA3NDE=,8188,Issues with recognition whilst using IP Stream only,99,2017-02-12T10:02:54Z,2017-11-10T18:50:54Z,2017-11-10T18:50:54Z
-opencv/opencv,MDU6SXNzdWUxMjM4MjUxOTA=,5874,OpenCV 3.1.0 simple VideoCapture and waitKey crashes after a while on OS X 10.11.2,65,2015-12-24T18:10:47Z,2017-12-30T00:45:01Z,2016-03-10T08:11:09Z
-opencv/opencv,MDU6SXNzdWUxMTY4NTEzNTk=,5667,OpenCV3 python calls to FlannBasedMatcher::knnMatch fail with error,56,2015-11-13T21:02:39Z,2018-06-16T10:30:44Z,2016-02-02T16:05:15Z
-opencv/opencv,MDU6SXNzdWUyODYyMTE3ODc=,10516,AttributeError: 'module' object has no attribute 'face',52,2018-01-05T07:30:43Z,2020-06-14T19:14:20Z,2018-01-05T08:07:26Z
-opencv/opencv,MDU6SXNzdWUyNjc0MjM0NzQ=,9904,Failed to load mobilenet-ssd caffemodel.,48,2017-10-22T00:00:07Z,2020-02-02T15:43:01Z,2017-10-27T18:08:21Z
-awesome-selfhosted/awesome-selfhosted,MDU6SXNzdWU0NzkxMDY0OTg=,1767,"Remove dead links, unmaintained projects, syntax/formatting issues",36,2019-08-09T18:10:05Z,2020-10-08T20:42:10Z,2020-10-08T20:42:10Z
-awesome-selfhosted/awesome-selfhosted,MDU6SXNzdWUxMjMzNDEzODY=,381,Weekly Unmaintained Project Check (Week of 21.12.15),23,2015-12-21T19:21:05Z,2017-04-05T23:53:14Z,2017-04-05T23:53:14Z
-awesome-selfhosted/awesome-selfhosted,MDU6SXNzdWUxOTI1MDMzNTg=,875,Validate Pull Requests with a Continuous Integration system,18,2016-11-30T08:25:23Z,2017-04-04T11:38:36Z,2017-04-04T11:38:36Z
-awesome-selfhosted/awesome-selfhosted,MDU6SXNzdWUxMDg2NjYxNTA=,282,Propose: Form to help PR,18,2015-09-28T14:14:01Z,2016-02-17T21:49:38Z,2016-02-17T21:49:32Z
-awesome-selfhosted/awesome-selfhosted,MDU6SXNzdWU5NzkzNzM4MA==,63,Find and remove unmaintained projects,16,2015-07-29T13:35:23Z,2017-05-24T19:09:37Z,2017-05-24T19:09:37Z
-chrislgarry/Apollo-11,MDU6SXNzdWUxNjQzMjU3MjE=,3,Check continuity on O2 cryogenic tanks before allowing stir,220,2016-07-07T14:40:39Z,2020-07-17T00:38:18Z,2016-07-08T14:08:07Z
-chrislgarry/Apollo-11,MDU6SXNzdWU0NzA2MzU5ODE=,485,Handling Issues,36,2019-07-20T05:03:00Z,2019-07-28T12:07:45Z,2019-07-28T12:01:21Z
-chrislgarry/Apollo-11,MDU6SXNzdWU0NzA2MjUxMTc=,482,据说某国特工九死一生拿到了NASA太空火箭发射程序源代码的最后几页,30,2019-07-20T02:28:39Z,2019-07-20T10:12:04Z,2019-07-20T02:45:42Z
-chrislgarry/Apollo-11,MDU6SXNzdWUxNjQ3NDM1NTg=,74,Can we put this installed in The International Space Station and China Tiangong 2 and ... ?,23,2016-07-11T01:00:27Z,2016-12-28T16:51:03Z,2016-07-11T20:13:03Z
-chrislgarry/Apollo-11,MDU6SXNzdWUxNjk0MzQ0Njc=,159,Query about blank lines,22,2016-08-04T17:51:52Z,2018-05-31T16:10:30Z,2018-05-31T16:10:30Z
-rust-lang/rust,MDU6SXNzdWU1MDk0MDU3MTM=,65590,Rustc panicked while running rls,898,2019-10-19T06:48:36Z,2019-10-31T23:56:16Z,2019-10-29T22:26:59Z
-rust-lang/rust,MDU6SXNzdWU1MTM0NjE0NDU=,65897,nll crater run for 1.40,681,2019-10-28T17:50:33Z,2019-11-17T16:24:55Z,2019-11-17T16:24:55Z
-rust-lang/rust,MDU6SXNzdWUzOTk0ODUxNTk=,57640,Resolve `await` syntax,512,2019-01-15T18:51:34Z,2019-04-29T21:57:35Z,2019-04-29T21:57:35Z
-rust-lang/rust,MDU6SXNzdWUxNjI1NDU0MTk=,34511,"Tracking issue for `impl Trait` (RFC 1522, RFC 1951, RFC 2071)",417,2016-06-27T20:51:36Z,2019-08-19T14:06:38Z,2019-07-28T06:40:07Z
-rust-lang/rust,MDU6SXNzdWUzNTE4OTEzMzk=,53491,"Tracking issue for RFC 1892, ""Deprecate uninitialized in favor of a new MaybeUninit type""",382,2018-08-19T10:19:08Z,2019-08-14T18:03:57Z,2019-08-14T18:03:57Z
-netdata/netdata,MDU6SXNzdWUxNDU0MjUzNDk=,148,what our users say about netdata?,116,2016-04-02T22:29:23Z,2018-09-22T10:36:46Z,2017-10-11T20:49:43Z
-netdata/netdata,MDU6SXNzdWUxOTgzNjY4NzE=,1497,Prometheus Support,107,2017-01-02T18:11:53Z,2020-04-04T12:20:21Z,2017-01-05T12:13:59Z
-netdata/netdata,MDU6SXNzdWUxNjU2MzY1NzA=,692,python.d enhancements,100,2016-07-14T19:14:00Z,2018-10-19T13:50:23Z,2018-09-22T01:34:38Z
-netdata/netdata,MDU6SXNzdWUxNjM4MDM2NDE=,651,netdata package maintainers,95,2016-07-05T09:05:35Z,2018-11-02T16:53:01Z,2018-09-22T14:29:07Z
-netdata/netdata,MDU6SXNzdWU0MjQ1MTAzMDg=,5690,How to install openvpn plugin,77,2019-03-23T15:10:16Z,2020-10-14T06:07:01Z,2019-03-25T11:46:09Z
-gothinkster/realworld,MDU6SXNzdWUyMjU0NjE2NTg=,83,🗄🔧 QEWD Implementation,50,2017-05-01T16:02:10Z,2017-05-05T16:38:01Z,2017-05-05T16:38:01Z
-gothinkster/realworld,MDU6SXNzdWUyMjM0NzkxMzM=,17,🗄🔧  Elixir + Phoenix,36,2017-04-21T19:48:25Z,2017-11-23T23:59:41Z,2017-11-15T19:43:27Z
-gothinkster/realworld,MDU6SXNzdWU1MzA0MDE0NDU=,446,neo.mjs frontend,31,2019-11-29T15:33:06Z,2020-06-16T13:49:39Z,2020-05-19T22:58:22Z
-gothinkster/realworld,MDU6SXNzdWUyMjU4MjM0OTI=,87,🗄🔧 CakePHP,31,2017-05-02T21:14:11Z,2017-05-06T00:59:08Z,2017-05-06T00:57:39Z
-gothinkster/realworld,MDU6SXNzdWUyMjQyNjk4OTU=,55,🗄🔧 Spring (w/ Spring Boot),29,2017-04-25T20:57:26Z,2018-06-12T19:01:07Z,2018-06-12T19:01:07Z
-doocs/advanced-java,MDU6SXNzdWU0MDQxNjY3Nzc=,35,es 的分布式架构原理能说一下么小建议,5,2019-01-29T08:04:44Z,2019-01-31T13:14:51Z,2019-01-31T13:14:51Z
-doocs/advanced-java,MDU6SXNzdWUzOTM4MzkwNzI=,4,建议：从微信号那边过来的，感觉公众号上面的图画的更加清晰,5,2018-12-24T08:57:18Z,2018-12-25T08:26:48Z,2018-12-25T08:26:48Z
-doocs/advanced-java,MDU6SXNzdWU3MjExODc3Nzk=,197,单台es内存不是越多越好,4,2020-10-14T06:41:38Z,2020-10-16T01:42:55Z,2020-10-16T01:42:55Z
-doocs/advanced-java,MDU6SXNzdWU0NzY0MTQwODM=,90,关于《亿级流量高并发场景下，如何保证缓存与数据库的双写一致性？》中的疑问,4,2019-08-03T04:21:10Z,2019-09-09T11:18:58Z,2019-09-09T11:18:48Z
-doocs/advanced-java,MDU6SXNzdWU0MzA1NTM3MDc=,58,图片在本地不能正常显示的问题,4,2019-04-08T16:49:23Z,2019-05-23T02:59:07Z,2019-04-09T02:11:44Z
-adam-p/markdown-here,MDU6SXNzdWUyODQ0NDY2OTY=,474,"'""><img src=x onerror=prompt(1)>https://html5sec.org/test.svg",61,2017-12-25T13:16:14Z,2020-10-11T14:34:45Z,2017-12-25T13:22:28Z
-adam-p/markdown-here,MDU6SXNzdWUyMjE2NDU4MA==,141,Firefox: ReferenceError: document is not defined,20,2013-11-06T00:58:16Z,2014-09-18T19:19:49Z,2014-09-11T01:34:02Z
-adam-p/markdown-here,MDU6SXNzdWUxNjE5NTEwMw==,85,Convert back to Markdown syntax saved Evernote's note,19,2013-06-30T23:27:26Z,2014-05-21T01:59:59Z,2014-05-16T13:02:45Z
-adam-p/markdown-here,MDU6SXNzdWU1NjEwOTc1,21,Extension updates not being accepted by Mozilla,19,2012-07-13T18:35:03Z,2014-08-13T12:21:14Z,2012-08-28T00:39:17Z
-adam-p/markdown-here,MDU6SXNzdWUyMDY5MDcwNw==,109,Markdown Here Upgrade Notification every time I open Chrome,14,2013-10-08T16:34:45Z,2013-10-11T17:04:47Z,2013-10-11T13:28:19Z
-Semantic-Org/Semantic-UI,MDU6SXNzdWUyOTAxNTg1NTU=,6109,Is Semantic UI development dead ?,120,2018-01-20T02:47:24Z,2018-06-08T01:39:09Z,2018-03-19T03:04:49Z
-Semantic-Org/Semantic-UI,MDU6SXNzdWUyMDY1MjgxMw==,191,[UI] Date Picker,86,2013-10-08T03:25:16Z,2016-12-26T14:18:08Z,2016-05-15T05:11:59Z
-Semantic-Org/Semantic-UI,MDU6SXNzdWUyMDcyMzU4Mw==,216,CSS Preprocessing,79,2013-10-09T05:47:15Z,2014-10-01T21:13:40Z,2014-10-01T21:13:40Z
-Semantic-Org/Semantic-UI,MDU6SXNzdWU3MzQyOTY5OA==,2216,2.0 Announcement,73,2015-05-05T20:56:40Z,2015-07-13T02:30:06Z,2015-07-13T02:30:06Z
-Semantic-Org/Semantic-UI,MDU6SXNzdWUzMzg2MjI4Mg==,847,Multi Select,67,2014-05-20T06:49:19Z,2016-11-25T12:12:53Z,2015-05-27T18:33:41Z
-kdn251/interviews,MDU6SXNzdWUyNTU0MDczMTE=,44,Incorrect (?) time complexities for Heap operations,10,2017-09-05T21:00:33Z,2017-09-17T17:24:33Z,2017-09-17T17:24:33Z
-kdn251/interviews,MDU6SXNzdWUyMjE0NjQ5NTc=,35,Adding a direct link to code in directory tree in readme.md,7,2017-04-13T05:53:07Z,2017-04-27T10:51:44Z,2017-04-27T10:51:44Z
-kdn251/interviews,MDU6SXNzdWU0NDMxMTQ3MDE=,122,SearchInRotatedSortedArray Invalid Solution,4,2019-05-12T15:10:56Z,2019-05-14T15:00:45Z,2019-05-14T15:00:45Z
-kdn251/interviews,MDU6SXNzdWUyMTM1OTAxMDU=,5,bitmasks,4,2017-03-12T08:12:57Z,2017-03-15T22:12:10Z,2017-03-15T22:12:10Z
-kdn251/interviews,MDU6SXNzdWU0NTE1OTY2ODA=,123,How did you guys visualize all those algorithms?,3,2019-06-03T17:16:54Z,2019-06-10T14:07:28Z,2019-06-10T14:07:28Z
-httpie/httpie,MDU6SXNzdWU2MDMzMjk1,83,Issue for Testing,431,2012-08-04T22:27:48Z,2020-10-24T09:01:48Z,2012-09-21T03:07:34Z
-httpie/httpie,MDU6SXNzdWUxMDgzMDEyMQ==,128,Option to allow pretty print without alpha sorting,36,2013-02-10T21:56:58Z,2020-06-18T20:31:32Z,2020-06-18T20:31:32Z
-httpie/httpie,MDU6SXNzdWUxMjY2MTczNTc=,427,httpie changing the json fields order in the output,27,2016-01-14T09:49:55Z,2020-06-18T20:32:17Z,2020-06-18T20:32:17Z
-httpie/httpie,MDU6SXNzdWU1MDQwMzUzNQ==,278,Multiple test failures in tox py34,26,2014-11-28T21:12:55Z,2015-02-05T14:36:31Z,2015-02-05T14:36:31Z
-httpie/httpie,MDU6SXNzdWU1OTMzNjE1MA==,315,requests.exceptions.SSLError: [Errno 8] _ssl.c:507: EOF occurred in violation of protocol,23,2015-02-28T10:15:50Z,2019-10-15T13:07:25Z,2016-10-21T13:47:47Z
-xingshaocheng/architect-awesome,MDU6SXNzdWU0NDY0MDA4NTc=,98,错别字,4,2019-05-21T03:33:10Z,2019-05-28T06:17:04Z,2019-05-28T06:17:04Z
-xingshaocheng/architect-awesome,MDU6SXNzdWU1NTE3Njc2Njk=,126,大家都是只点赞不看的么？有链接失效了,3,2020-01-18T13:12:45Z,2020-08-25T11:40:11Z,2020-08-25T11:40:11Z
-xingshaocheng/architect-awesome,MDU6SXNzdWUzMjc5ODYzNTI=,55,非Java系后端架构师，是不是要学一下Java？,2,2018-05-31T04:04:48Z,2018-06-03T07:02:36Z,2018-06-03T07:02:36Z
-xingshaocheng/architect-awesome,MDU6SXNzdWUzMjE4OTkxNjU=,39,可以添加一些源码解析么？,2,2018-05-10T11:27:00Z,2018-05-13T08:05:33Z,2018-05-13T08:05:33Z
-xingshaocheng/architect-awesome,MDU6SXNzdWUzMjE0MDc5OTE=,35,有个错别字,2,2018-05-09T02:23:34Z,2018-05-10T00:44:02Z,2018-05-10T00:44:02Z
-ElemeFE/element,MDU6SXNzdWUyNjA4MzU0NjU=,7236,Element 2.0 即将到来,180,2017-09-27T03:28:24Z,2017-11-14T02:44:44Z,2017-10-01T12:07:55Z
-ElemeFE/element,MDU6SXNzdWUyNjg2ODMyOTM=,7755,Element 2.0 正式发布,126,2017-10-26T09:11:22Z,2018-05-24T05:38:02Z,2017-11-07T03:24:55Z
-ElemeFE/element,MDU6SXNzdWUyNjE4MjI2ODU=,7304,Element 2.0.0-alpha.1 已发布 🎉,101,2017-09-30T06:32:30Z,2017-11-07T06:52:14Z,2017-10-20T09:12:58Z
-ElemeFE/element,MDU6SXNzdWUyMjE0MzY3Mjg=,4159,[Feature Request] 希望增加table组件列宽自适应的特性,97,2017-04-13T01:50:19Z,2020-10-27T00:33:06Z,2018-02-08T09:11:31Z
-ElemeFE/element,MDU6SXNzdWUyNzE3MDU2NDM=,8074,Spanish documentation,82,2017-11-07T04:21:33Z,2017-12-11T04:37:23Z,2017-12-11T04:37:22Z
-h5bp/html5-boilerplate,MDU6SXNzdWUyNzQ1NDM=,28,script loading solution,132,2010-08-10T20:49:43Z,2013-04-16T13:03:07Z,2011-08-09T06:20:45Z
-h5bp/html5-boilerplate,MDU6SXNzdWU0MTE0NDk3,1050,Drop legacy browser support,97,2012-04-14T00:11:38Z,2014-03-26T14:49:39Z,2013-10-21T18:40:04Z
-h5bp/html5-boilerplate,MDU6SXNzdWU5OTI0OTUx,1290,Remove IE conditional classes,85,2013-01-13T18:45:22Z,2014-08-29T12:54:16Z,2013-10-21T18:40:04Z
-h5bp/html5-boilerplate,MDU6SXNzdWUyMjc2MzE0,857,rewrite project css as scss,85,2011-11-18T02:27:38Z,2012-02-28T05:11:39Z,2012-01-24T18:50:53Z
-h5bp/html5-boilerplate,MDU6SXNzdWUzMDIwOTI4MA==,1524,Drop IE8 support,77,2014-03-26T13:07:13Z,2017-05-21T11:10:18Z,2016-09-12T16:07:37Z
-gatsbyjs/gatsby,MDU6SXNzdWUzNDMzODY0ODk=,6654,[gatsby-source-wordpress] Large WordPress site causing extremely slow build time (stuck at 'source and transform nodes'),156,2018-07-22T08:01:11Z,2020-01-14T08:30:52Z,2020-01-13T11:15:42Z
-gatsbyjs/gatsby,MDU6SXNzdWU0MTY2NTU2MTI=,12272,[bug] ☂️ umbrella issue for schema customization issues,131,2019-03-04T06:49:27Z,2020-01-16T09:28:18Z,2020-01-16T09:28:18Z
-gatsbyjs/gatsby,MDU6SXNzdWUxNzM2MDE4Mjk=,408,Gatsby logo/branding,128,2016-08-27T15:44:37Z,2017-11-29T01:07:43Z,2017-11-29T01:07:43Z
-gatsbyjs/gatsby,MDU6SXNzdWU0MDYxMDUyMDE=,11524,Missing resources for /,112,2019-02-03T16:30:58Z,2019-08-01T10:31:35Z,2019-06-28T16:23:53Z
-gatsbyjs/gatsby,MDU6SXNzdWUxNTg1NzEwOTY=,312,Using React components in Markdown source,112,2016-06-05T19:52:50Z,2018-08-29T05:45:24Z,2018-07-31T15:52:17Z
-gohugoio/hugo,MDU6SXNzdWUyNzg0MDMyNw==,201,Upgrade the license to an open one,77,2014-02-19T00:08:55Z,2018-04-29T20:11:39Z,2015-11-24T03:20:58Z
-gohugoio/hugo,MDU6SXNzdWUzMzMwNjI0NTk=,4854,The big assets handling / resource transformation funcs naming thread,73,2018-06-17T13:22:01Z,2018-11-03T21:47:41Z,2018-11-03T21:47:41Z
-gohugoio/hugo,MDU6SXNzdWUzMTQzMDY0NzI=,4616,Improve Hugo Internal vs GDPR,66,2018-04-14T07:12:26Z,2020-06-06T21:42:21Z,2018-05-25T15:50:23Z
-gohugoio/hugo,MDU6SXNzdWUyMzY0MTIwMw==,147,Non-MD files in the content directory (like jpg's and png's) end up as html's,66,2013-12-03T13:08:19Z,2015-11-27T08:30:24Z,2015-05-20T22:55:33Z
-gohugoio/hugo,MDU6SXNzdWUzMDA5OTAzMjM=,4460,"Allow theme = [""base"", ""my-theme"" ] (aka theme composition and inheritance)",64,2018-02-28T11:33:47Z,2019-08-03T14:59:49Z,2018-06-10T22:33:40Z
-josephmisiti/awesome-machine-learning,MDU6SXNzdWU3MTg5MzM5MjM=,744,Outdated Clojure List,7,2020-10-11T21:49:59Z,2020-10-27T14:40:27Z,2020-10-27T14:34:15Z
-josephmisiti/awesome-machine-learning,MDU6SXNzdWUxMTg5NTM4OTQ=,206,Mark for unmaintained/deprecated libraries,7,2015-11-26T01:37:16Z,2016-02-05T03:33:14Z,2016-02-05T03:33:14Z
-josephmisiti/awesome-machine-learning,MDU6SXNzdWUxNzMxMzY4MjA=,305,sort libraries in the sense of usage,4,2016-08-25T07:56:23Z,2016-10-25T17:05:45Z,2016-10-25T17:05:45Z
-josephmisiti/awesome-machine-learning,MDU6SXNzdWUzOTQ4MDc1MDI=,577,contribute,3,2018-12-29T16:20:34Z,2019-01-21T18:25:31Z,2019-01-21T18:25:31Z
-josephmisiti/awesome-machine-learning,MDU6SXNzdWUyNDAzMTk3NTY=,395,Add 19Q machine learning game,3,2017-07-04T06:05:27Z,2018-08-16T22:02:22Z,2018-08-16T12:50:26Z
-lodash/lodash,MDU6SXNzdWU2NTAzMDU3NjQ=,4837,Publish new release/tag to npm registry for Prototype Pollution fix,66,2020-07-03T02:49:17Z,2020-08-14T15:27:17Z,2020-08-14T15:27:17Z
-lodash/lodash,MDU6SXNzdWUxNDY5MjM1Ng==,281,Feature Request: Add array `remove` method.,39,2013-05-23T19:53:55Z,2019-01-21T00:08:12Z,2013-08-02T02:44:50Z
-lodash/lodash,MDU6SXNzdWUxMjE3MzAyNTQ=,1701,Feature Request: _.move() element in an array,36,2015-12-11T15:33:26Z,2020-10-29T00:27:55Z,2015-12-11T15:46:14Z
-lodash/lodash,MDU6SXNzdWU1NzE3ODA3NQ==,953,Ensure something is array,35,2015-02-10T14:02:28Z,2019-07-18T06:33:46Z,2015-02-10T20:12:30Z
-lodash/lodash,MDU6SXNzdWU0Mzk2MTY4Mg==,723,Deep functionality for omit,34,2014-09-25T20:10:25Z,2020-10-12T21:29:30Z,2014-09-25T20:54:11Z
-rails/rails,MDU6SXNzdWU0MTQwNDEyMw==,16731,Rails is great! Thank you.,205,2014-08-28T15:37:58Z,2015-12-30T17:52:30Z,2014-11-04T14:17:48Z
-rails/rails,MDU6SXNzdWUxNDYwMDk3,2639,Served asset log messages are pretty annoying! :) ,177,2011-08-22T18:43:30Z,2015-04-05T15:40:02Z,2012-01-18T13:36:13Z
-rails/rails,MDU6SXNzdWU5Nzg5NDYx,8832,Regression with empty nested attributes in parameters,134,2013-01-09T00:40:32Z,2014-08-18T23:36:08Z,2013-12-20T10:50:50Z
-rails/rails,MDU6SXNzdWU1NTMxMjYwNw==,18660,Missing helper file helpers//Users/xxxx/Sites/xxxx/app/helpers/application_helper.rb_helper.rb,126,2015-01-23T18:05:31Z,2019-08-29T21:39:23Z,2018-08-23T11:26:58Z
-rails/rails,MDU6SXNzdWUxNDI1MDgy,2569,"Asset pipeline: locally precompiled md5 fingerprints don't match with the ones generated by rails helpers in production (rails 3.1 rc6, ruby 1.9.2)",124,2011-08-17T18:12:04Z,2011-08-25T19:03:55Z,2011-08-25T19:03:55Z
-resume/resume.github.com,MDU6SXNzdWUyMzE5MzU5Nw==,151,Doesn't work. :(,21,2013-11-23T20:32:47Z,2016-02-17T15:47:53Z,2016-02-17T15:47:53Z
-resume/resume.github.com,MDU6SXNzdWUyMjgzODAwMQ==,72,Ability to opt-out,12,2013-11-18T14:36:17Z,2013-11-19T18:37:33Z,2013-11-19T16:47:29Z
-resume/resume.github.com,MDU6SXNzdWUzMjE4MjkxNA==,182,Use HTTPS for external dependencies,8,2014-04-24T20:29:37Z,2016-02-16T14:10:07Z,2016-02-16T14:10:07Z
-resume/resume.github.com,MDU6SXNzdWUzMDc0OTYz,34,Stop impersonating people: drop the first-person act,7,2012-02-02T21:45:23Z,2012-03-08T20:33:05Z,2012-03-08T20:17:05Z
-resume/resume.github.com,MDU6SXNzdWUxMjczNzc5MTg=,216,Dear resume.github.com,6,2016-01-19T06:44:53Z,2016-02-07T10:01:43Z,2016-02-06T11:49:25Z
-h5bp/Front-end-Developer-Interview-Questions,MDU6SXNzdWUyOTA3MDE5MjM=,448,Create a new website,26,2018-01-23T04:01:46Z,2018-12-03T06:14:27Z,2018-12-03T06:14:27Z
-h5bp/Front-end-Developer-Interview-Questions,MDU6SXNzdWUxMjIxNTgzNDQ=,338,Sources to learn for interview questions,17,2015-12-14T23:42:31Z,2019-02-22T21:25:02Z,2019-02-22T21:25:01Z
-h5bp/Front-end-Developer-Interview-Questions,MDU6SXNzdWU1NTkxNzA4MQ==,242,Adding question about promises,15,2015-01-29T15:56:43Z,2015-02-19T10:06:38Z,2015-02-17T23:20:19Z
-h5bp/Front-end-Developer-Interview-Questions,MDU6SXNzdWUyNTcxNDk2MDk=,409,Is the repo still alive? ,14,2017-09-12T19:09:30Z,2017-09-26T17:17:46Z,2017-09-20T14:58:12Z
-h5bp/Front-end-Developer-Interview-Questions,MDU6SXNzdWUyODg3OTAwOTE=,435,Overall improvements list,10,2018-01-16T05:28:07Z,2020-08-06T00:08:03Z,2020-08-06T00:08:02Z
-redis/redis,MDU6SXNzdWUzMzEzNTk0Mg==,1732,Redis PPA for Ubuntu and Debian,146,2014-05-09T00:04:31Z,2020-09-01T08:50:35Z,2020-09-01T08:50:34Z
-redis/redis,MDU6SXNzdWU1MDU4OTcxMw==,2178,Redis SSL support,135,2014-12-01T22:51:40Z,2020-02-04T09:54:40Z,2020-02-04T09:54:40Z
-redis/redis,MDU6SXNzdWUzNTgxOTkwMDg=,5335,Changing Redis master-slave replication terms with something else,116,2018-09-07T20:20:30Z,2018-09-13T15:56:08Z,2018-09-13T15:31:46Z
-redis/redis,MDU6SXNzdWU5OTIyMTM0Ng==,2715,Two tests failing in unstable,101,2015-08-05T14:45:14Z,2019-04-13T10:31:47Z,2017-04-18T14:30:33Z
-redis/redis,MDU6SXNzdWUxNTAwODgwODY=,3185,"Replace ""master"" and ""slave"" terms in Redis",59,2016-04-21T14:19:48Z,2020-08-19T15:06:01Z,2020-08-19T15:06:01Z
-yangshun/tech-interview-handbook,MDU6SXNzdWUyNjU0NzQ0MTU=,44,Gender inclusive?,4,2017-10-14T08:17:53Z,2017-10-14T08:27:09Z,2017-10-14T08:26:43Z
-yangshun/tech-interview-handbook,MDU6SXNzdWUyNjMwMDc5NzA=,32,Typo in HTML Interview Questions,4,2017-10-05T05:24:32Z,2017-10-05T06:01:05Z,2017-10-05T05:44:26Z
-yangshun/tech-interview-handbook,MDU6SXNzdWUyNjQyOTQ4NzM=,40,mergeSort method doesn't handle null case,3,2017-10-10T16:32:32Z,2017-10-10T17:31:17Z,2017-10-10T16:36:57Z
-yangshun/tech-interview-handbook,MDU6SXNzdWUyNjIyOTk2NDM=,25,Adding a list of practice sites,3,2017-10-03T04:18:15Z,2017-10-03T04:55:44Z,2017-10-03T04:55:44Z
-yangshun/tech-interview-handbook,MDU6SXNzdWU1NDg2MzIxNzA=,153,"I am new to java, can anyone help me debug my code?",2,2020-01-12T21:46:19Z,2020-02-07T01:32:45Z,2020-02-07T01:32:45Z
-bitcoin/bitcoin,MDU6SXNzdWU1NDQ4Mzg5Mw==,5668,ERROR: ReadBlockFromDisk : Deserialize or I/O error - ReadCompactSize() : size too large,130,2015-01-15T18:12:56Z,2019-04-20T19:10:54Z,2016-11-02T11:41:30Z
-bitcoin/bitcoin,MDU6SXNzdWUxNTU4MzgxNQ==,2770,LevelDB corruption with 0.8.x Mac client,108,2013-06-15T00:27:14Z,2014-11-29T05:21:12Z,2014-01-06T09:10:27Z
-bitcoin/bitcoin,MDU6SXNzdWUzMTgzNzE1Nw==,4069,"SAV reported bitcoind infected w Silly.218, crashed bitcoind (likely false positive)",87,2014-04-19T04:00:43Z,2015-10-06T15:54:24Z,2015-10-06T15:54:24Z
-bitcoin/bitcoin,MDU6SXNzdWUyOTM2Njk1Ng==,3862,Switch all units to micro-BTC by default,88,2014-03-13T16:41:52Z,2014-07-16T10:28:50Z,2014-03-16T02:32:17Z
-bitcoin/bitcoin,MDU6SXNzdWUxMjg4MTYxNA==,2476,no separate source code tarball download available,81,2013-04-06T18:32:27Z,2017-07-27T06:39:51Z,2015-05-18T08:44:56Z
-ansible/ansible,MDU6SXNzdWUxMTg0MzM1NDc=,13262,feature request: looping over blocks,154,2015-11-23T17:43:27Z,2018-12-06T01:57:50Z,2017-10-11T18:29:51Z
-ansible/ansible,MDU6SXNzdWU1MDA2NjcyNzc=,62990,Issue with the NVM mount via ansible,139,2019-10-01T05:18:00Z,2020-01-13T15:54:41Z,2019-12-11T19:11:16Z
-ansible/ansible,MDU6SXNzdWUxMjY2MDQ1NjU=,13876,"[openssh/linux kernel > 3.12] Intermittent error ""failed to resolve remote temporary directory from"" [sleep 0]",128,2016-01-14T08:29:59Z,2019-04-25T19:43:55Z,2018-01-29T21:31:33Z
-ansible/ansible,MDU6SXNzdWUxMTg1NTI3OTM=,13278,[v2] 'Timeout (12s) waiting for privilege escalation prompt' when using with_items for commands that last longer than 12 seconds,123,2015-11-24T07:53:54Z,2019-04-25T19:35:47Z,2017-09-29T18:28:50Z
-ansible/ansible,MDU6SXNzdWUxNDY0ODM0NjA=,15321,"SSH works, but ansible throws unreachable error",93,2016-04-07T01:34:54Z,2019-07-16T15:29:35Z,2018-04-02T18:58:21Z
-moment/moment,MDU6SXNzdWU3NDg1MjAw,463,Duration missing features,186,2012-10-10T14:57:16Z,2020-10-13T19:58:06Z,2016-06-25T13:50:03Z
-moment/moment,MDU6SXNzdWUzNzA1NDUzNg==,1754,make moment mostly immutable,163,2014-07-03T07:58:14Z,2018-10-29T15:18:54Z,2018-10-29T15:18:45Z
-moment/moment,MDU6SXNzdWUyNjQxNzA3NDA=,4216,"Webpack Error: Cannot find module ""./locale"" after updating to 2.19.0",149,2017-10-10T10:08:55Z,2020-06-20T12:43:25Z,2017-10-12T22:58:56Z
-moment/moment,MDU6SXNzdWUyNTM0MzIyOA==,1407,Be careful when falling back to Date constructor,136,2014-01-09T19:05:34Z,2015-11-12T00:24:00Z,2014-04-23T21:37:16Z
-moment/moment,MDU6SXNzdWU3NTk1NTM4MA==,2373,"Modularize moment.js, make the core as light as possible",129,2015-05-13T11:38:18Z,2020-09-17T19:05:45Z,2020-09-14T23:46:44Z
-nvm-sh/nvm,MDU6SXNzdWU0ODU0Mzg5OA==,576,-bash: nvm: command not found,167,2014-11-12T18:23:48Z,2020-08-13T09:11:25Z,2014-11-22T18:21:57Z
-nvm-sh/nvm,MDU6SXNzdWU0MTU5NTA1,110,.nvmrc for projects,105,2012-04-17T19:20:34Z,2019-03-07T07:25:51Z,2013-04-16T20:27:46Z
-nvm-sh/nvm,MDU6SXNzdWU1MDc2NTMzOQ==,590,"IO.js, node-forward: should/will NVM support more than node?",73,2014-12-03T02:11:22Z,2015-01-20T20:18:57Z,2015-01-20T06:14:46Z
-nvm-sh/nvm,MDU6SXNzdWU5NDExMjk3Nw==,782,NVM starting too slow -- can I just add the bin folder to PATH?,72,2015-07-09T17:55:50Z,2020-04-28T08:57:35Z,2015-07-09T18:42:32Z
-nvm-sh/nvm,MDU6SXNzdWUzOTQ0MjQyNDI=,1968,"Manjaro: `nvm is not compatible with the npm config ""prefix"" option: currently set to """"`",66,2018-12-27T15:35:59Z,2020-08-08T19:43:39Z,2019-04-18T16:21:42Z
-protocolbuffers/protobuf,MDU6SXNzdWUxNTcwODI4MjM=,1606,Missing value/null support for scalar value types in proto 3,147,2016-05-26T21:25:30Z,2020-10-22T20:48:21Z,2017-03-09T21:47:08Z
-protocolbuffers/protobuf,MDU6SXNzdWUxNTMyODcwNjU=,1491,python: use relative imports in generated modules,88,2016-05-05T17:57:42Z,2020-10-26T06:16:24Z,2017-03-16T23:13:44Z
-protocolbuffers/protobuf,MDU6SXNzdWU5NzUzMDAyNQ==,644,Investigate support for Unity,83,2015-07-27T18:52:49Z,2018-06-11T23:19:10Z,2018-06-11T23:19:10Z
-protocolbuffers/protobuf,MDU6SXNzdWU2NzAxNjIxNg==,272,proto3 and unknown fields,69,2015-04-07T23:54:59Z,2019-03-19T08:46:40Z,2017-12-11T21:07:59Z
-protocolbuffers/protobuf,MDU6SXNzdWUyMTExODExMDk=,2780,Make C++ implementation C++11 only.,48,2017-03-01T19:20:17Z,2018-08-24T00:55:21Z,2018-06-22T23:34:23Z
+﻿<usuário>/<repositório>,ID,Número,Titulo,Nº de comentários,Data de criação,Data da última atualização,Data de conclusão,Nº de perguntas no SO,Nº de respostas no SO,Nº de visualizações no SO
+freeCodeCamp/freeCodeCamp,MDU6SXNzdWUxNTI3MjMxNjY=,8418,"Deprecate Gitter rooms, Download all data",114,2016-05-03T08:26:13Z,2017-12-08T15:05:37Z,2017-03-18T08:57:28Z,0,0,0
+freeCodeCamp/freeCodeCamp,MDU6SXNzdWUxNzA1NTAzOTA=,10158,Incorrect output for some equations - example javascript calculator project,89,2016-08-11T00:43:35Z,2016-10-09T16:53:41Z,2016-10-08T23:30:02Z,0,0,0
+freeCodeCamp/freeCodeCamp,MDU6SXNzdWUyODQ5NjM4NTA=,16358,ES6: Create Strings using Template Literals - Test Fails - Doesn't detect template strings,75,2017-12-28T18:09:38Z,2019-04-23T08:52:48Z,2018-06-25T17:20:21Z,0,0,0
+freeCodeCamp/freeCodeCamp,MDU6SXNzdWUyMTE4MzkyMzM=,13727,Chrome displays error message in iframe - Unsual code detected,72,2017-03-04T00:43:49Z,2020-05-05T12:51:02Z,2017-06-10T06:42:51Z,0,0,0
+freeCodeCamp/freeCodeCamp,MDU6SXNzdWUxMzAzMDEzMjI=,6633,"Timezone breaks submission: ""cannot read `join` of null.",70,2016-02-01T09:00:35Z,2016-02-03T20:17:30Z,2016-02-03T19:56:07Z,0,0,0
+vuejs/vue,MDU6SXNzdWUxMDEzNDg1NzU=,1173,Make binding syntax more consistent,212,2015-08-17T06:26:23Z,2015-09-13T21:04:47Z,2015-09-13T20:47:55Z,1,1,978
+vuejs/vue,MDU6SXNzdWUxNTQ4MTc3MTc=,2873,2.0 Changes,210,2016-05-13T23:16:15Z,2019-06-10T07:20:59Z,2016-09-17T20:53:35Z,1,5,18950
+vuejs/vue,MDU6SXNzdWUyNzMyNjA1MQ==,96,General FAQ,170,2014-02-11T05:18:02Z,2016-05-03T21:21:19Z,2014-03-21T01:43:11Z,8,8,7479
+vuejs/vue,MDU6SXNzdWUxMDYyMzg1NTU=,1308,1.0 binding syntax (discussion thread),137,2015-09-13T20:43:28Z,2015-09-26T00:39:08Z,2015-09-26T00:39:08Z,0,0,0
+vuejs/vue,MDU6SXNzdWU0NTUzMzUwMA==,478,Typescript and Vue in general,127,2014-10-10T23:31:11Z,2020-05-27T00:30:03Z,2016-10-01T00:10:38Z,0,0,0
+EbookFoundation/free-programming-books,MDU6SXNzdWUxMjQ0OTY0MzU=,1769,Crack down on copyright infringement PDFs,27,2015-12-31T19:11:21Z,2017-05-16T19:41:01Z,2017-05-16T19:41:01Z,0,0,0
+EbookFoundation/free-programming-books,MDU6SXNzdWUyNzQwNzk0Nw==,699,Adding software versions in table-like structure,23,2014-02-12T03:44:37Z,2014-05-25T15:50:13Z,2014-05-25T15:48:37Z,0,0,0
+EbookFoundation/free-programming-books,MDU6SXNzdWUxMDM5MDY1Mzg=,1586,HELP_WANTED: update broken URLs,18,2015-08-30T07:54:59Z,2015-11-17T15:50:17Z,2015-11-17T15:47:44Z,0,0,0
+EbookFoundation/free-programming-books,MDU6SXNzdWU1MDc3Nzc4Mg==,1223,It would be helpful to specify access requirements,17,2014-12-03T04:29:51Z,2016-10-02T10:48:26Z,2016-10-02T10:48:26Z,0,0,0
+EbookFoundation/free-programming-books,MDU6SXNzdWU2NTY0MzM1Nw==,1427,free-science-books,16,2015-04-01T09:28:11Z,2015-09-06T12:30:27Z,2015-09-06T12:30:27Z,0,0,0
+facebook/react,MDU6SXNzdWUyODUyNzgxNTk=,11940,Facebook Engineers - Thank You For 2017,264,2017-12-31T22:06:22Z,2020-07-06T11:30:27Z,2018-01-02T13:05:16Z,0,0,0
+facebook/react,MDU6SXNzdWUyNDU4Mzg1MDY=,10294,React 16 RC,254,2017-07-26T20:05:32Z,2017-11-03T10:31:08Z,2017-09-26T16:49:46Z,0,0,0
+facebook/react,MDU6SXNzdWUzNTYxMDM1OTI=,13525,React Fire: Modernizing React DOM,227,2018-08-31T19:45:53Z,2020-08-12T13:13:48Z,2020-08-11T11:34:24Z,0,0,0
+facebook/react,MDU6SXNzdWU0MTY2ODAwOQ==,2127,Add fragment API to allow returning multiple components from render,148,2014-09-02T00:58:45Z,2017-11-28T22:17:08Z,2017-07-26T22:36:36Z,0,0,0
+facebook/react,MDU6SXNzdWUyMDA3NTk4OTI=,8784,Explore encouraging users to not ship DEV mode to production,143,2017-01-13T23:49:15Z,2017-07-26T22:59:01Z,2017-07-26T22:59:01Z,0,0,0
+tensorflow/tensorflow,MDU6SXNzdWUzOTc4MTYxOTI=,24828,"Error : Failed to get convolution algorithm. This is probably because cuDNN failed to initialize, so try looking to see if a warning log message was printed above.",256,2019-01-10T12:49:35Z,2020-11-02T12:24:39Z,2019-02-01T00:04:37Z,3,3,665
+tensorflow/tensorflow,MDU6SXNzdWUxMTU5NTY5Mjc=,37,Node.js (JavaScript) Wrapper API,246,2015-11-09T20:17:58Z,2018-11-09T21:48:39Z,2018-04-26T22:35:51Z,710,626,906247
+tensorflow/tensorflow,MDU6SXNzdWUzNjc0MzI2MDI=,22794,Win10: ImportError: DLL load failed: The specified module could not be found,184,2018-10-06T07:29:04Z,2020-03-10T22:45:45Z,2018-10-07T20:47:09Z,0,0,0
+tensorflow/tensorflow,MDU6SXNzdWUxMTU5MjU5NjQ=,17,Windows Support and Documentation,180,2015-11-09T17:30:58Z,2016-11-29T18:08:28Z,2016-11-29T18:08:28Z,1631,1507,2523257
+tensorflow/tensorflow,MDU6SXNzdWUyNDgxMzU1NjA=,12052,Upgrade to CuDNN 7 and CUDA 9,170,2017-08-04T22:57:53Z,2019-02-08T20:44:12Z,2017-12-15T23:02:03Z,1,1,3533
+twbs/bootstrap,MDU6SXNzdWU0MTA2ODQ0,3057,bootstrap-dropdown.js clearMenus() needs ; at the end,289,2012-04-13T16:41:13Z,2014-10-01T20:42:29Z,2012-04-14T22:47:15Z,0,0,0
+twbs/bootstrap,MDU6SXNzdWUxNzM1NTQ3,306,Sticky footer,264,2011-09-25T22:50:21Z,2013-12-28T09:15:05Z,2011-10-04T06:06:17Z,0,0,0
+twbs/bootstrap,MDU6SXNzdWUzMjc1Mzgz,2054,Migrate to MIT License,213,2012-02-17T22:55:46Z,2014-07-30T01:42:08Z,2013-08-13T17:43:02Z,0,0,0
+twbs/bootstrap,MDU6SXNzdWU2MzY5MzQ2,4550,"Button dropdown links don't work on mobile (android, iOS)",192,2012-08-22T04:53:09Z,2014-10-02T00:06:25Z,2012-12-05T02:36:53Z,0,0,0
+twbs/bootstrap,MDU6SXNzdWUyODAzNzMw,966,Icons as font instead of img ,157,2012-01-11T12:19:28Z,2013-08-21T07:24:21Z,2012-11-06T02:52:55Z,0,0,0
+sindresorhus/awesome,MDU6SXNzdWU5ODIwODA2OQ==,253,Add badge to existing lists,128,2015-07-30T16:16:34Z,2016-10-26T09:05:55Z,2016-10-26T09:05:55Z,0,0,0
+sindresorhus/awesome,MDU6SXNzdWU5MDYyMzQ5Ng==,207,Improve the awesome list ecoystem,28,2015-06-24T09:30:22Z,2015-07-09T13:26:15Z,2015-07-09T13:07:19Z,0,0,0
+sindresorhus/awesome,MDU6SXNzdWUxMTkwODM5NjU=,427,Website for searching in awesome.,25,2015-11-26T17:34:26Z,2019-02-26T19:46:36Z,2019-02-26T19:46:36Z,0,0,0
+sindresorhus/awesome,MDU6SXNzdWU5MTQ2NDA2Ng==,213,Badge,18,2015-06-27T13:23:39Z,2015-07-30T17:15:36Z,2015-07-30T16:04:05Z,0,0,0
+sindresorhus/awesome,MDU6SXNzdWU3OTU4MzgwNQ==,153,Local awesome lists,18,2015-05-22T19:46:05Z,2019-02-26T19:40:23Z,2019-02-26T19:40:23Z,0,0,0
+jwasham/coding-interview-university,MDU6SXNzdWUxODMyMjAwNzA=,39,Translations are welcome,30,2016-10-15T16:54:41Z,2017-01-06T18:21:40Z,2017-01-06T18:16:10Z,0,0,0
+jwasham/coding-interview-university,MDU6SXNzdWUxOTk5NTQ3OTM=,131,A little bad news. I didn't get hired.,20,2017-01-10T22:43:42Z,2017-01-27T18:35:40Z,2017-01-27T18:35:40Z,0,0,0
+jwasham/coding-interview-university,MDU6SXNzdWUyNzI5MzgzMTM=,275,How many years I need to finish all of this stuff?,16,2017-11-10T13:50:13Z,2020-02-12T06:06:32Z,2020-02-12T06:06:32Z,0,0,0
+jwasham/coding-interview-university,MDU6SXNzdWUxOTY5OTI1Njg=,80,Translation: Spanish,16,2016-12-21T17:44:42Z,2017-06-04T17:24:31Z,2017-06-04T17:24:31Z,0,0,0
+jwasham/coding-interview-university,MDU6SXNzdWUxOTgxODAxOTI=,101,Translation: Bahasa Indonesia,15,2016-12-30T18:33:14Z,2020-08-28T07:58:51Z,2017-02-13T17:52:32Z,0,0,0
+kamranahmedse/developer-roadmap,MDU6SXNzdWUzMzg2MDQyNDU=,474,DevOps is not a career path,17,2018-07-05T14:41:40Z,2020-02-27T05:32:22Z,2019-01-23T18:11:19Z,0,0,0
+kamranahmedse/developer-roadmap,MDU6SXNzdWUyMTQ1NDE1NTg=,1,Why is PHP involved in a roadmap with a year above 2011,15,2017-03-15T22:10:15Z,2017-03-16T22:21:11Z,2017-03-16T22:21:11Z,0,0,0
+kamranahmedse/developer-roadmap,MDU6SXNzdWU0ODE2Mjg1ODY=,614,Software QA Roadmap,12,2019-08-16T14:11:22Z,2020-01-04T06:39:26Z,2020-01-04T06:39:26Z,0,0,0
+kamranahmedse/developer-roadmap,MDU6SXNzdWUyMjIwMDIxMjk=,127,Full stack path,12,2017-04-16T10:08:25Z,2020-01-04T01:20:40Z,2020-01-04T01:20:40Z,0,0,0
+kamranahmedse/developer-roadmap,MDU6SXNzdWU1ODI2NTMwMzQ=,663,Frameworks for Backend,9,2020-03-16T23:18:07Z,2020-03-20T22:17:47Z,2020-03-20T22:17:47Z,0,0,0
+getify/You-Dont-Know-JS,MDU6SXNzdWUzOTkyNTI2Ng==,170,"""types & grammar"": review - vball525",75,2014-08-11T03:12:15Z,2017-09-15T02:24:44Z,2014-09-12T14:22:48Z,0,0,0
+getify/You-Dont-Know-JS,MDU6SXNzdWU3MTkwOTI2MA==,423,"""es6 & beyond"": ch 7, errors in example code",40,2015-04-29T15:32:44Z,2015-05-01T18:56:09Z,2015-04-29T21:55:07Z,0,0,0
+getify/You-Dont-Know-JS,MDU6SXNzdWUxNjEwNTY0NzA=,767,`let` hoisting?,39,2016-06-19T04:50:00Z,2020-05-31T19:49:26Z,2016-06-23T07:16:06Z,0,0,0
+getify/You-Dont-Know-JS,MDU6SXNzdWUyNTI3NzU5OA==,37,Tech Editors,28,2014-01-08T23:05:31Z,2018-03-18T20:06:49Z,2018-03-18T20:06:49Z,0,0,0
+getify/You-Dont-Know-JS,MDU6SXNzdWUyOTg3NzgxNw==,91,"""this & object prototypes"": cover shadowing properties",23,2014-03-21T03:48:35Z,2017-08-18T21:07:01Z,2014-03-31T08:21:29Z,0,0,0
+ohmyzsh/ohmyzsh,MDU6SXNzdWUxNTkwNjM4NA==,1906,A few invalid symbols in 'agnoster.zsh-theme',111,2013-06-24T02:28:19Z,2019-03-25T18:15:21Z,2014-03-06T00:30:54Z,0,0,0
+ohmyzsh/ohmyzsh,MDU6SXNzdWUzNjUyNjM2MzQ=,7175,[Good first PR] Add READMEs to undocumented plugins,109,2018-09-30T21:31:55Z,2019-12-27T01:53:26Z,2019-12-27T01:53:26Z,0,0,0
+ohmyzsh/ohmyzsh,MDU6SXNzdWU5NzU1OTE=,377,Proposal to Simplify OH-MY-ZSH,87,2011-05-30T19:26:38Z,2014-05-29T15:48:08Z,2012-06-13T20:07:28Z,0,0,0
+ohmyzsh/ohmyzsh,MDU6SXNzdWUxNzM4NDc4,630,compdef: unknown command or service: git,86,2011-09-26T10:42:51Z,2020-07-24T20:28:42Z,2014-03-22T20:49:35Z,0,0,0
+ohmyzsh/ohmyzsh,MDU6SXNzdWU4NzE1NDk1,1433,history-substring-search doesn't work after update to Ubuntu 12.10 [has workaround],79,2012-11-27T11:10:36Z,2017-06-05T04:22:41Z,2015-02-22T01:00:29Z,0,0,0
+CyC2018/CS-Notes,MDU6SXNzdWUzMjgwMTY0OTk=,268,版主弄个微信群吧,44,2018-05-31T06:59:13Z,2018-11-20T09:38:15Z,2018-11-20T09:38:15Z,0,0,0
+CyC2018/CS-Notes,MDU6SXNzdWUzMDQ4NDcwMDg=,52,Please translate to english,21,2018-03-13T16:48:04Z,2018-11-20T09:38:50Z,2018-11-20T09:38:50Z,0,0,0
+CyC2018/CS-Notes,MDU6SXNzdWU0MTEyMTIyODg=,567,小调查：本项目是否帮你拿到了 Offer？,18,2019-02-17T17:31:07Z,2019-06-19T04:01:44Z,2019-06-19T04:01:44Z,0,0,0
+CyC2018/CS-Notes,MDU6SXNzdWUzMDkyMDgwMTc=,106,计算机操作系统那里，进程同步是不是有点问题？,15,2018-03-28T03:26:00Z,2018-07-22T14:14:55Z,2018-07-07T13:34:23Z,0,0,0
+CyC2018/CS-Notes,MDU6SXNzdWUzMDg0MTcwNTM=,95,希望大家能在这里添加一些自己认为重要的基础知识点，帮助改进本仓库。,15,2018-03-26T02:49:41Z,2018-10-06T07:08:24Z,2018-04-04T02:58:29Z,0,0,0
+donnemartin/system-design-primer,MDU6SXNzdWUyMTMyNzY2NzA=,15,Make the OmniGraffle template and diagrams available,13,2017-03-10T08:33:53Z,2017-04-02T12:36:23Z,2017-04-02T12:34:49Z,0,0,0
+donnemartin/system-design-primer,MDU6SXNzdWUyODk3OTAyMjA=,126,Anki flash cards errors,7,2018-01-18T21:58:23Z,2018-09-02T18:10:48Z,2018-09-02T18:10:48Z,0,0,0
+donnemartin/system-design-primer,MDU6SXNzdWU2MDEwMjA2MjM=,402,"Normally, the passive server won't take over the IP address of active server in the case of failover",4,2020-04-16T12:45:02Z,2020-04-17T10:20:28Z,2020-04-17T10:20:27Z,0,0,0
+donnemartin/system-design-primer,MDU6SXNzdWU1OTYzODc1MDg=,397,"Replace ""master"" and ""slave"" terms",4,2020-04-08T08:04:05Z,2020-08-03T08:57:13Z,2020-08-03T08:57:13Z,0,0,0
+donnemartin/system-design-primer,MDU6SXNzdWU0ODE3NDQyMzM=,313,Availability patterns description,4,2019-08-16T19:04:50Z,2020-07-05T14:50:33Z,2020-07-05T14:50:33Z,0,0,0
+flutter/flutter,MDU6SXNzdWUzMzI2OTAwODI=,18494,Support APKs with 32-bit and 64-bit binaries within them,286,2018-06-15T08:35:27Z,2020-04-15T17:09:58Z,2019-06-25T22:03:36Z,0,0,0
+flutter/flutter,MDU6SXNzdWUyNTAwODA3MDQ=,11609,Consider JSX-like syntax inside dart code,238,2017-08-14T16:16:38Z,2018-08-01T03:50:58Z,2018-08-01T03:50:49Z,0,0,0
+flutter/flutter,MDU6SXNzdWUzMTQ0MjYxMTA=,16604,Need to restart or flutter clean too often,235,2018-04-15T15:39:19Z,2020-08-17T23:02:09Z,2020-04-13T17:41:49Z,0,0,0
+flutter/flutter,MDU6SXNzdWUzMDgzNDQyMDM=,15922,Consider JSX-like as React Native,203,2018-03-25T12:05:33Z,2020-04-25T19:45:14Z,2018-04-25T20:25:47Z,0,0,0
+flutter/flutter,MDU6SXNzdWU0MzkyNDgwMTE=,31922,Support app bundles with 32-bit and 64-bit binaries within them,194,2019-05-01T17:31:54Z,2020-02-03T21:59:50Z,2019-06-24T20:14:24Z,0,0,0
+microsoft/vscode,MDU6SXNzdWU1OTA3MDEyMDY=,93814,GitHub Action Error Log,463,2020-03-31T00:52:53Z,2020-11-09T17:20:48Z,2020-08-10T17:49:22Z,0,0,0
+microsoft/vscode,MDU6SXNzdWUxMTc4MTcwNTI=,224,Proper tabs for open files,411,2015-11-19T13:49:36Z,2016-06-27T06:44:35Z,2016-06-27T06:42:48Z,1,1,28
+microsoft/vscode,MDU6SXNzdWUxMTgxNzUzMTk=,396,Add support for opening multiple project folders in same window,380,2015-11-21T06:44:53Z,2017-12-17T11:05:17Z,2017-11-02T11:03:21Z,1,1,278
+microsoft/vscode,MDU6SXNzdWUyNjM2Mjg2MTg=,35783,New VS Code icon is ugly!,361,2017-10-07T09:18:32Z,2017-12-08T20:05:05Z,2017-10-24T19:10:13Z,0,0,0
+microsoft/vscode,MDU6SXNzdWUxNjE3NTkxNjA=,8017,Inconsistent weight and use of color in iconography throughout UI,314,2016-06-22T18:55:34Z,2019-09-17T14:53:29Z,2019-08-01T22:12:49Z,0,0,0
+airbnb/javascript,MDU6SXNzdWUyMjA3MTM4NjI=,1365,What is the benefit of prefer-default-export?,165,2017-04-10T17:23:49Z,2020-10-14T17:49:43Z,2017-08-08T06:40:20Z,0,0,0
+airbnb/javascript,MDU6SXNzdWUxNTA1ODUyMDg=,851,Using 'ForInStatement' is not allowed (no-restricted-syntax),155,2016-04-23T19:01:41Z,2020-03-02T14:11:23Z,2016-04-23T21:16:23Z,1,1,5801
+airbnb/javascript,MDU6SXNzdWUyMDIxMTEyOTU=,1271,Using 'ForOfStatement' is not allowed (no-restricted-syntax),153,2017-01-20T10:55:08Z,2020-05-29T07:11:02Z,2017-01-20T18:39:44Z,0,0,0
+airbnb/javascript,MDU6SXNzdWUxNzIxNTM0MzU=,1024,Why are underscore prefixes for internal methods of a React component considered bad?,119,2016-08-19T15:09:28Z,2020-09-15T05:12:27Z,2016-08-30T17:00:03Z,0,0,0
+airbnb/javascript,MDU6SXNzdWUxODI2NzQ2NDM=,1122,Disallow for-of,113,2016-10-13T01:41:47Z,2020-04-10T06:35:54Z,2016-10-17T06:11:37Z,0,0,0
+public-apis/public-apis,MDU6SXNzdWUxNjUwODgxMzY=,203,Migrate to a website,48,2016-07-12T14:02:15Z,2019-12-14T08:10:57Z,2019-04-21T14:13:23Z,27,35,77764
+public-apis/public-apis,MDU6SXNzdWUyMTQ4MTY0Mjg=,303,Is it possible to add a column to show if APIs are CORS enabled?,26,2017-03-16T19:39:42Z,2018-01-15T13:33:50Z,2018-01-15T13:33:49Z,53,60,161680
+public-apis/public-apis,MDU6SXNzdWUxNDUxNDM0MzY=,140,API key inconsistency,14,2016-04-01T10:22:21Z,2016-12-12T16:42:59Z,2016-12-12T16:42:59Z,61,65,132809
+public-apis/public-apis,MDU6SXNzdWUzMTAyOTY5MTk=,644,MetaWeather does not have open CORS,6,2018-04-01T05:32:21Z,2020-11-01T09:10:48Z,2018-04-11T02:46:59Z,8,13,15762
+public-apis/public-apis,MDU6SXNzdWU3MTQxMjg5Mjk=,1401,Adding repository to Hacktoberfest,5,2020-10-03T16:47:14Z,2020-10-06T05:16:10Z,2020-10-06T05:16:10Z,5,4,6237

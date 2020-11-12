@@ -20,7 +20,7 @@ class Token {
 
       l.success('\nToken válido :D');
       l.info(
-        'Nº de requisições restantes a API:',
+        'Nº de requisições restantes a API do GitHub:',
         validated.rateLimit.remaining
       );
 
