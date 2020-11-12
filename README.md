@@ -11,28 +11,29 @@ Uma análise se a discussão de issues nos repositórios mais populares do GitHu
 
 ## :label: Versões
 
-- [Sprint 2 (v0.2.0) - _current_](https://github.com/TheMarini/issues-and-stack-overflow/tree/v0.2.0)
+- [Sprint 3 (v0.3.0) - _current_](https://github.com/TheMarini/issues-and-stack-overflow/tree/v0.3.0)
+- [Sprint 2 (v0.2.0)](https://github.com/TheMarini/issues-and-stack-overflow/tree/v0.2.0)
 - [Sprint 1 (v0.1.0)](https://github.com/TheMarini/issues-and-stack-overflow/tree/v0.1.0)
 
 **Obs.:** essa lista pode estar desatualizada conforme o lançamento de novas _releases_. A versão atualizada sempre estará no último lançamento feito, o qual se encontra na [branch main](https://github.com/TheMarini/issues-and-stack-overflow).
 
 ## :abacus: Dados
 
-As métricas - e as futuras análises sobre elas - serão baseadas conforme os dados diponíveis em [`repos.csv`](https://github.com/TheMarini/issues-and-stack-overflow/blob/v0.2.0/data/repos.csv), [`open_issues.csv`](https://github.com/TheMarini/issues-and-stack-overflow/blob/v0.2.0/data/open_issues.csv) e [`closed_issues.csv`](https://github.com/TheMarini/issues-and-stack-overflow/blob/v0.2.0/data/closed_issues.csv) presentes neste repositório, obtidos em 28/10/2020 às 23h00 através do código e método descrito a seguir.
+As métricas - e as futuras análises sobre elas - serão baseadas conforme os dados diponíveis em [`repos.csv`](https://github.com/TheMarini/issues-and-stack-overflow/blob/v0.3.0/data/repos.csv), [`open_issues.csv`](https://github.com/TheMarini/issues-and-stack-overflow/blob/v0.3.0/data/open_issues.csv) e [`closed_issues.csv`](https://github.com/TheMarini/issues-and-stack-overflow/blob/v0.3.0/data/closed_issues.csv) presentes neste repositório, obtidos em 11/11/2020 às 20h30 através do código e método descrito a seguir.
 
 ## :information_source: Introdução
 
-Nesta segunda entrega do projeto, o objetivo foi o seguinte:
+Nesta terceira entrega do projeto, o objetivo foi o seguinte:
 
-> **Sprint 02:** Coleta de issues (arquivo .csv contendo as issues do dataset definido).
-> - Valor: 4 pontos
-> - Entrega em 28/10/2020 até às 23:59 no Canvas e no SGA
+> **Sprint 03:** Mineração do Stack Overflow (consulta dos posts no Stack Overflow + valores das métricas do estudo)
+> - Valor: 8 pontos
+> - Entrega em 04/11/2020 até às 23:59 no Canvas e no SGA
 
 Tendo isto em vista, foi desenvolvido um _script_ em Node.js que, a partir de um _token_ da API do GitHub, realiza uma busca paginada da _query_ GraphQL a seguir enquanto, paralelamente, os resultados são salvos nos respectivos arquivos CSV:
 
-- [`repos.csv`](https://github.com/TheMarini/issues-and-stack-overflow/blob/v0.2.0/data/repos.csv): métricas dos repositórios;
-- [`open_issues.csv`](https://github.com/TheMarini/issues-and-stack-overflow/blob/v0.2.0/data/open_issues.csv): métricas das _issues_ abertas de cada repositório;
-- [`closed_issues.csv`](https://github.com/TheMarini/issues-and-stack-overflow/blob/v0.2.0/data/closed_issues.csv): métricas das _issues_ fechadas de cada repositório;
+- [`repos.csv`](https://github.com/TheMarini/issues-and-stack-overflow/blob/v0.3.0/data/repos.csv): métricas dos repositórios;
+- [`open_issues.csv`](https://github.com/TheMarini/issues-and-stack-overflow/blob/v0.3.0/data/open_issues.csv): métricas das _issues_ abertas de cada repositório;
+- [`closed_issues.csv`](https://github.com/TheMarini/issues-and-stack-overflow/blob/v0.3.0/data/closed_issues.csv): métricas das _issues_ fechadas de cada repositório;
 
 ```GraphQL
   {
@@ -88,7 +89,7 @@ Tendo isto em vista, foi desenvolvido um _script_ em Node.js que, a partir de um
 
 ### Repositórios sem _issues_
 
-Ao longo da busca, os repositórios que não possuirem _issues_ são descartados, contabilizados e informados ao usuário para que seja possível identificar o défict faltante até o nº de resultados almejado. Por exemplo, na execução realizada em 28/10/2020 às 23h00, 7 dos 100 repositórios retornados foram descartados, por isto a quantidade de páginas a serem retornadas foi aumentada de 25 para 30, de acordo com as seguintes variáveis em `index.js`:
+Ao longo da busca, os repositórios que não possuirem _issues_ são descartados, contabilizados e informados ao usuário para que seja possível identificar o défict faltante até o nº de resultados almejado. Por exemplo, em uma execução realizada no dia 28/10/2020 às 23h00, 7 dos 100 repositórios retornados foram descartados, por isto a quantidade de páginas a serem retornadas foi aumentada de 25 para 30, de acordo com as seguintes variáveis em `index.js`:
 
 ```Javascript
 // Quantity of pages as objective
@@ -98,6 +99,12 @@ const pageLength = 4;
 ```
 
 Desta forma é possível obter um número superior ao desejado com o objetivo de previnir a ocorrência de repositórios sem _issues_.
+
+### Métricas do Stack Overflow
+
+Conforme os resultados das páginas são retornados, para cada _issue_ é realizado uma busca para a API do Stack Overflow na rota `/search/advanced` com o termo `<usuário>/<repositório> <número da issue>`. Além disso, o filtro `!4(EH5lWNG)R3L7Drl` é ultilizado para que só seja retornado as métricas necessárias. 
+
+Exemplo de busca realizada: https://api.stackexchange.com/docs/advanced-search#page=1&order=desc&sort=votes&q=vue%2Fvuejs%202873&filter=!4(EH5lWNG)R3L7Drl&site=stackoverflow&run=true 
 
 ## :fire: Instalação
 
@@ -120,4 +127,5 @@ Desta forma é possível obter um número superior ao desejado com o objetivo de
 
 - [Bruno Marini](https://github.com/TheMarini)
 - [Guilherme Willer](https://github.com/guigawiller)
+
 
