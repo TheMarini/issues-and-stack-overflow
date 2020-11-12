@@ -1,4 +1,5 @@
 const ObjectsToCsv = require('objects-to-csv');
+const stackOverflow = require('./utils/stackOverflow');
 const fetch = require('./utils/fetch');
 const l = require('./utils/logger');
 
@@ -32,13 +33,20 @@ class Mine {
       await fetch(token, this.cursor, this.pageLength).then(async (res) => {
         this.cursor = res.pageInfo.endCursor || null;
         this.current += 1;
-        const data = this.polish(res.nodes, tag);
-        console.log(`${tag} Salvando as métricas dos repositórios...`);
-        await Mine.store('./data/repos.csv', data.repos, tag);
-        console.log(`${tag} Salvando as métricas das issues abertas...`);
-        await Mine.store('./data/open_issues.csv', data.openIssues, tag);
-        console.log(`${tag} Salvando as métricas das issues fechadas...`);
-        await Mine.store('./data/closed_issues.csv', data.closedIssues, tag);
+        await stackOverflow(this.polish(res.nodes, tag), tag).then(
+          async (data) => {
+            console.log(`${tag} Salvando as métricas dos repositórios...`);
+            await Mine.store('./data/repos.csv', data.repos, tag);
+            console.log(`${tag} Salvando as métricas das issues abertas...`);
+            await Mine.store('./data/open_issues.csv', data.openIssues, tag);
+            console.log(`${tag} Salvando as métricas das issues fechadas...`);
+            await Mine.store(
+              './data/closed_issues.csv',
+              data.closedIssues,
+              tag
+            );
+          }
+        );
       });
     } catch (e) {
       l.error(`${tag} Erro na requisição:`, e.message);
