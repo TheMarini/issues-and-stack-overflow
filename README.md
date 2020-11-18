@@ -4,36 +4,36 @@ Uma análise se a discussão de issues nos repositórios mais populares do GitHu
 ## :card_index: Sumário
 
 1. [:label: Versões](#label-versões)
-2. [:abacus: Dados](#abacus-dados)
-3. [:information_source: Introdução](#information_source-introdução)
-4. [:fire: Instalação](#fire-instalação)
-5. [:busts_in_silhouette: Autores](#busts_in_silhouette-autores)
+2. [:spiral_notepad: Relatório Final](#spiral_notepad-relatório-final)
+3. [:abacus: Dados](#abacus-dados)
+4. [:information_source: Introdução](#information_source-introdução)
+5. [:fire: Instalação](#fire-instalação)
+6. [:busts_in_silhouette: Autores](#busts_in_silhouette-autores)
 
 ## :label: Versões
 
-- [Sprint 3 (v0.3.0) - _current_](https://github.com/TheMarini/issues-and-stack-overflow/tree/v0.3.0)
+- [Sprint Final (v1.0.0) - _current_](https://github.com/TheMarini/issues-and-stack-overflow/tree/v1.0.0)
+- [Sprint 3 (v0.3.0)](https://github.com/TheMarini/issues-and-stack-overflow/tree/v0.3.0)
 - [Sprint 2 (v0.2.0)](https://github.com/TheMarini/issues-and-stack-overflow/tree/v0.2.0)
 - [Sprint 1 (v0.1.0)](https://github.com/TheMarini/issues-and-stack-overflow/tree/v0.1.0)
 
 **Obs.:** essa lista pode estar desatualizada conforme o lançamento de novas _releases_. A versão atualizada sempre estará no último lançamento feito, o qual se encontra na [branch main](https://github.com/TheMarini/issues-and-stack-overflow).
 
+## :spiral_notepad: Relatório Final
+
+[Link para o PDF com as análises e métricas](https://github.com/TheMarini/issues-and-stack-overflow/blob/v1.0.0/docs/Relatório%20Final.pdf).
+
 ## :abacus: Dados
 
-As métricas - e as futuras análises sobre elas - serão baseadas conforme os dados diponíveis em [`repos.csv`](https://github.com/TheMarini/issues-and-stack-overflow/blob/v0.3.0/data/repos.csv), [`open_issues.csv`](https://github.com/TheMarini/issues-and-stack-overflow/blob/v0.3.0/data/open_issues.csv) e [`closed_issues.csv`](https://github.com/TheMarini/issues-and-stack-overflow/blob/v0.3.0/data/closed_issues.csv) presentes neste repositório, obtidos em 11/11/2020 às 20h30 através do código e método descrito a seguir.
+As métricas - e as análises sobre elas - foram baseadas conforme os dados diponíveis em [`repos.csv`](https://github.com/TheMarini/issues-and-stack-overflow/blob/v1.0.0/data/repos.csv), [`open_issues.csv`](https://github.com/TheMarini/issues-and-stack-overflow/blob/v1.0.0/data/open_issues.csv) e [`closed_issues.csv`](https://github.com/TheMarini/issues-and-stack-overflow/blob/v1.0.0/data/closed_issues.csv) presentes neste repositório, obtidos em 16/11/2020 às 21h25 através do código e método descrito a seguir.
 
 ## :information_source: Introdução
 
-Nesta terceira entrega do projeto, o objetivo foi o seguinte:
+Foi desenvolvido um _script_ em Node.js que, a partir de um _token_ da API do GitHub, realiza uma busca paginada da _query_ GraphQL a seguir enquanto, paralelamente, os resultados são salvos nos respectivos arquivos CSV:
 
-> **Sprint 03:** Mineração do Stack Overflow (consulta dos posts no Stack Overflow + valores das métricas do estudo)
-> - Valor: 8 pontos
-> - Entrega em 04/11/2020 até às 23:59 no Canvas e no SGA
-
-Tendo isto em vista, foi desenvolvido um _script_ em Node.js que, a partir de um _token_ da API do GitHub, realiza uma busca paginada da _query_ GraphQL a seguir enquanto, paralelamente, os resultados são salvos nos respectivos arquivos CSV:
-
-- [`repos.csv`](https://github.com/TheMarini/issues-and-stack-overflow/blob/v0.3.0/data/repos.csv): métricas dos repositórios;
-- [`open_issues.csv`](https://github.com/TheMarini/issues-and-stack-overflow/blob/v0.3.0/data/open_issues.csv): métricas das _issues_ abertas de cada repositório;
-- [`closed_issues.csv`](https://github.com/TheMarini/issues-and-stack-overflow/blob/v0.3.0/data/closed_issues.csv): métricas das _issues_ fechadas de cada repositório;
+- [`repos.csv`](https://github.com/TheMarini/issues-and-stack-overflow/blob/v1.0.0/data/repos.csv): métricas dos repositórios;
+- [`open_issues.csv`](https://github.com/TheMarini/issues-and-stack-overflow/blob/v1.0.0/data/open_issues.csv): métricas das _issues_ abertas de cada repositório;
+- [`closed_issues.csv`](https://github.com/TheMarini/issues-and-stack-overflow/blob/v1.0.0/data/closed_issues.csv): métricas das _issues_ fechadas de cada repositório;
 
 ```GraphQL
   {
@@ -126,6 +126,6 @@ Exemplo de busca realizada: https://api.stackexchange.com/docs/advanced-search#p
 ## :busts_in_silhouette: Autores
 
 - [Bruno Marini](https://github.com/TheMarini)
-- [Guilherme Willer](https://github.com/guigawiller)
+
 
 
